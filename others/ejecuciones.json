@@ -1,0 +1,262 @@
+[
+  {
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "ERIKA ROMERO BECERRA",
+
+    "oficio_autoridad": "19931_5",
+    "expediente_autoridad": "1053/18 JEI",
+    "estado_region": "Hermosillo",
+    "autoridad": "Secretaría del Trabajo Gobierno de Sonora",
+    "subautoridad": "Junta Especial No.1 de la Local de Conciliación y Arbitraje del Estado de Sonora",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si existe cuenta a nombre de Norma Elena Valenzuela Gaxiola, Rocio Durazo Ochoa, Fausto Rene Durazo Avila, y de ser así informen los números de cuenta y saldo en las mismas.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "NORMA ELENA VALENZUELA GAXIOLA",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "ROCIO DURAZO OCHOA",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "FAUSTO RENE DURAZO AVILA",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ]
+  },
+  {
+    "oficio_autoridad": "19920",
+    "expediente_autoridad": "3451/19 JEI_1",
+    "estado_region": "Hermosillo",
+    "autoridad": "Secretaría del Trabajo del Estado de Sonora",
+    "subautoridad": "Junta Especial No.1 de la Local de Conciliación y Arbitraje del Estado de Sonora",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si existe cuenta a nombre del demandado Christian Francisco Dessens Leon y, de ser así, proporcionar los números de cuenta y saldo de las mismas.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "CHRISTIAN FRANCISCO DESSENS LEON",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "ERIKA ROMERO BECERRA"
+  },
+  {
+    "oficio_autoridad": "139",
+    "expediente_autoridad": "751/2017/II_1",
+    "estado_region": "Cosamaloapan",
+    "autoridad": "Poder Judicial del Estado de Veracruz",
+    "subautoridad": "Juzgado Primero de Primera Instancia Civil",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Rendir informe sobre si se encuentran cuentas registradas a nombre de Aurelio Severiano Alfaro e Iracema de Jesus Marquez Lopez, indicando el saldo de cada una de ellas.",
+    "tipo_operacion": "informe",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "AURELIO SEVERIANO ALFARO",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "IRACEMA DE JESUS MARQUEZ LOPEZ",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "MARCOS GERARDO VILLANUEVA CETINA"
+  },
+  {
+    "oficio_autoridad": "3617/2026",
+    "expediente_autoridad": "00131/2025",
+    "estado_region": "Baja California",
+    "autoridad": "",
+    "subautoridad": "Juzgado Segundo de lo Familiar",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informe a esta Autoridad si TEREZA LIZETTE VILLALOBOS QUIROZ con RFC VIGT831125QA5 y CURP VIGT831125MBCLRR01 es o ha sido titular, cotitular o beneficiaria de cuentas bancarias abiertas en dichas instituciones y en caso afirmativo se sirvan remitir la información relativa a la existencia de las cuentas su tipo, fecha de apertura, vigencia, movimientos de ingreso y egreso, así como correspondientes al periodo del 2021 a la fecha.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "TEREZA LIZETTE VILLALOBOS QUIROZ",
+        "rfc": "VIGT831125QA5",
+        "cuentas_especificas": []
+      }
+    ],
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "MARIA ANGELICA PADRON ROSAS"
+  },
+  {
+    "oficio_autoridad": "33162/2026_2",
+    "autoridad_especifica": "PODER JUDICIAL DE LA FEDERACION",
+    "expediente_autoridad": "429/2026-IV-12",
+    "estado_region": "Jalisco",
+    "autoridad": "Poder Judicial de la Federación",
+    "subautoridad": "Juzgado Quinto de Distrito en Materia Penal en el Estado de Jalisco",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar el cumplimiento dado a lo ordenado por el Cuarto Tribunal Colegiado en Materia Penal del Tercer Circuito en la ejecutoria emitida en la queja 248/2026, así como a la suspensión definitiva concedida mediante interlocutoria de veinte de julio de dos mil veintiséis.",
+    "tipo_operacion": "informe",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "Promotora Profile, Sociedad Anónima Promotora de Inversión de Capital Variable, Sociedad Financiera de Objeto Múltiple, Entidad No Regulada",
+        "rfc": "PPR0610168Z1",
+        "cuentas_especificas": []
+      }
+    ],
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "ASEGURAMIENTOS",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "CESAR EDUARDO CRUZ VILLEGAS"
+  },
+  {
+    "instrucciones_oficio": "Notificar a BBVA México el testimonio autorizado de la resolución pronunciada el 31 de julio de 2026 en el juicio de amparo 939/2025-3, promovido por TLAMAGA SOCIEDAD DE RESPONSABILIDAD LIMITADA DE CAPITAL VARIABLE, en la que se resolvió sobreseer en el juicio y negar el amparo y protección de la Justicia Federal respecto de la orden y ejecución de inmovilización de cuentas bancarias.",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "TLAMAGA SOCIEDAD DE RESPONSABILIDAD LIMITADA DE CAPITAL VARIABLE",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "oficio_url": "https://drive.google.com/open?id=1aYsN1_X3Rh9tj4NROHwSMFusL-rOTFQ_",
+    "oficio_autoridad": "25426/2026",
+    "expediente_autoridad": "939/2025-3",
+    "estado_region": "QUERETARO",
+    "region": "METROPOLITANA",
+    "plaza": "MEXICO,DISTRITO FEDERAL",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "autoridad_especifica": "",
+    "subautoridad": "JUZGADO QUINTO DE DISTRITO EN MATERIA DE AMPARO QUERETARO",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "JUDICIAL",
+    "tipo_operacion": "insumos",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE"
+  },
+  {
+    "instrucciones_oficio": "Informar si en sus registros tiene una o varias cuentas bancarias a nombre de la moral COYUCA RURAL, SOCIEDAD COOPERATIVA DE RESPONSABILIDAD LIMITADA DE CAPITAL VARIABLE, Y/O LA MORAL EL TORONJO, S,P,R DE R,I con número de RFC CRU170131F59, y de ser afirmativo proporcionar el número o números de cuentas bancarias registradas y las cantidades que contengan cada una, dentro del término de tres días contados a partir de la recepción del oficio.",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "COYUCA RURAL, SOCIEDAD COOPERATIVA DE RESPONSABILIDAD LIMITADA DE CAPITAL VARIABLE",
+        "rfc": "CRU170131F59",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "EL TORONJO, S,P,R DE R,I",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "oficio_url": "https://drive.google.com/open?id=1w-oqss_RSeLRhGisJKA1O_ANaMjwWMhP",
+    "oficio_autoridad": "2137/2026",
+    "expediente_autoridad": "983/2016",
+    "estado_region": "GUERRERO",
+    "region": "METROPOLITANA",
+    "plaza": "ACAPULCO, GUERRERO",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "autoridad_especifica": "",
+    "subautoridad": "2137/2026",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "JUDICIAL",
+    "tipo_operacion": "Insumos",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE"
+  },
+  {
+    "instrucciones_oficio": "Informar a la brevedad respecto de la cuenta 0158835241 lo siguiente: a) Nombre de quien aparece como titular de la cuenta; b) Fecha de apertura; c) Saldos actuales; y d) Estados de cuenta correspondientes a los últimos cinco años.",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "",
+        "rfc": "",
+        "cuentas_especificas": ["0158835241"]
+      }
+    ],
+    "oficio_url": "https://drive.google.com/open?id=183E_nyp9yRoYSbRyBX-07D6X8dGMkSUX",
+    "oficio_autoridad": "5157/2026",
+    "expediente_autoridad": "517/2025",
+    "estado_region": "san luis potosi",
+    "region": "METROPOLITANA",
+    "plaza": "MEXICO,DISTRITO FEDERAL",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "autoridad_especifica": "",
+    "subautoridad": "juzgado cuarto familiar",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "JUDICIAL",
+    "tipo_operacion": "Insumos",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "DAVID GARCIA GUZMAN"
+  },
+  {
+    "instrucciones_oficio": "Informar en el término de tres días si en sus archivos existen cuentas bancarias a nombre de la parte demandada Samuel Lopez Navarrete y Luis Miguel Palomares Lopez.",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "SAMUEL LOPEZ NAVARRETE",
+        "rfc": "LONS670707NL1",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "LUIS MIGUEL PALOMARES LOPEZ",
+        "rfc": "PALL850618QA3",
+        "cuentas_especificas": []
+      }
+    ],
+    "oficio_url": "https://drive.google.com/open?id=1faJEB9EXmoc7iR6RFeEK0CZx9fCjTu-n",
+    "oficio_autoridad": "4987/2026",
+    "expediente_autoridad": "233/2024",
+    "estado_region": "TIJUANA BC",
+    "region": "METROPOLITANA",
+    "plaza": "MEXICO,DISTRITO FEDERAL",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "autoridad_especifica": "",
+    "subautoridad": "TRIBUNAL CIVIL CORPORATIVO ESPECIALIZADO EN MATERIA MERCANTIL",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "tipo_oficio": "JUDICIAL",
+    "tipo_operacion": "Informe (no requiere documentos)",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "abogado_solicitante": "ISAID VARGAS CHAIREZ"
+  }
+]

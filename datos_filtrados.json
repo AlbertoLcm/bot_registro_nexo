@@ -1,0 +1,3911 @@
+[
+    {
+        "oficio_autoridad": "3734/26",
+        "expediente_autoridad": "670/25",
+        "estado_region": "Chihuahua",
+        "autoridad_oficio": "Poder Judicial del Estado de Chihuahua",
+        "subautoridad": "Juzgado Séptimo Familiar por Audiencias del Distrito Judicial Morelos",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si durante el periodo comprendido del 18 de mayo de 1986 al 12 de marzo de 2024 existieron créditos, préstamos, financiamientos y/o adeudos adquiridos por Bertha Alicia Pizarro Trejo y Erasmo Ochoa Chaparro, de manera individual o conjunta, precisando su naturaleza y datos de identificación.",
+        "acciones_solicitadas": [
+            "Informar si existieron créditos, préstamos, financiamientos o adeudos de manera individual o conjunta en el periodo indicado",
+            "Precisar la naturaleza y datos de identificación de los créditos, préstamos, financiamientos o adeudos"
+        ],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "BERTHA ALICIA PIZARRO TREJO",
+                "rfc": "",
+                "cuentas_especificas": []
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ERASMO OCHOA CHAPARRO",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existieron créditos, préstamos, financiamientos o adeudos de manera individual o conjunta en el periodo indicado",
+            "Precisar la naturaleza y datos de identificación de los créditos, préstamos, financiamientos o adeudos"
+        ],
+        "timestamp": "2026-10-16T17:26:53.005Z",
+        "region": "NORTE",
+        "plaza": "CHIHUAHUA,CHIHUAHUA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE CHIHUAHUA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=12t0tcVxIKyVShXyas7jQnGjpheB2ha2W",
+        "abogado_solicitante": "ISAID VARGAS CHAIREZ",
+        "name_file": "670-2025 - ISAID VARGAS CHAIREZ.pdf",
+        "folio_sugo": "260366806TSJJUD"
+    },
+    {
+        "oficio_autoridad": "5638",
+        "expediente_autoridad": "00384/2022",
+        "estado_region": "Tamaulipas",
+        "autoridad_oficio": "Poder Judicial de Tamaulipas",
+        "subautoridad": "Juzgado Séptimo Familiar de Primera Instancia del Segundo Distrito Judicial en el Estado",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Exhibir los estados de cuenta de la cuenta bancaria número 1543197433 a nombre de Margarita Pulido Luna desde enero del 2021 a la fecha",
+        "acciones_solicitadas": [
+            "Exhibir los estados de cuenta desde enero del 2021 a la fecha"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARGARITA PULIDO LUNA",
+                "rfc": "PULM880704HM2",
+                "cuentas_especificas": [
+                    "1543197433"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Exhibir los estados de cuenta desde enero del 2021 a la fecha"
+        ],
+        "timestamp": "2026-10-16T17:26:53.005Z",
+        "region": "NORESTE",
+        "plaza": "TAMPICO,TAMAULIPAS",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE TAMAULIPAS",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1M-gDJjV-bNzfbX5KaTx19iMzEhM6EeY7",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "00384-2022 ARC INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366811TSJJUD"
+    },
+    {
+        "oficio_autoridad": "3549/2026",
+        "expediente_autoridad": "926/2023",
+        "estado_region": "Chihuahua",
+        "autoridad_oficio": "Tribunal Superior de Justicia del Estado de Chihuahua",
+        "subautoridad": "Juzgado Décimo Civil por Audiencias del Distrito Judicial Morelos",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si en los registros existen cuentas bancarias a nombre de Jorge Salinas Lozano y, en caso afirmativo, señalar el saldo existente, el número y tipo de cuenta, en su caso el nombre de los beneficiarios y los estados de cuenta posteriores al catorce de julio de dos mil diecisiete.",
+        "acciones_solicitadas": [
+            "Informar si existen cuentas bancarias a nombre de Jorge Salinas Lozano",
+            "Informar el saldo existente, número y tipo de cuenta, beneficiarios y estados de cuenta posteriores al catorce de julio de dos mil diecisiete"
+        ],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JORGE SALINAS LOZANO",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existen cuentas bancarias a nombre de Jorge Salinas Lozano",
+            "Informar el saldo existente, número y tipo de cuenta, beneficiarios y estados de cuenta posteriores al catorce de julio de dos mil diecisiete"
+        ],
+        "timestamp": "2026-10-16T17:26:53.006Z",
+        "region": "BAJIO",
+        "plaza": "AGUASCALIENTES,AGUASCALIENTES",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE CHIHUAHUA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1EC8ma_a0UxBfhwRYdUodOj3tmMKvwmqq",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "926-2023 ARC INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366816TSJJUD"
+    },
+    {
+        "oficio_autoridad": "2613/2026-II",
+        "expediente_autoridad": "051/2026-II",
+        "estado_region": "BAJA CALIFORNIA",
+        "autoridad_oficio": "PODER JUDICIAL DE BAJA CALIFORNIA",
+        "subautoridad": "JUZGADO DE PRIMERA INSTANCIA CIVIL DE SAN QUINTÍN",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si se encuentra abierta una cuenta bancaria a nombre de Marcos Jesus Garcia Gastelum y, en caso afirmativo, proporcionar los movimientos del 10 de enero de 2000 al 10 de enero de 2017.",
+        "acciones_solicitadas": [
+            "Informar si existe cuenta bancaria abierta a nombre de la persona indicada",
+            "Informar los movimientos del periodo del 10 de enero de 2000 al 10 de enero de 2017 en caso afirmativo"
+        ],
+        "plazo": {
+            "cantidad": 8,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARCOS JESUS GARCIA GASTELUM",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existe cuenta bancaria abierta a nombre de la persona indicada",
+            "Informar los movimientos del periodo del 10 de enero de 2000 al 10 de enero de 2017 en caso afirmativo"
+        ],
+        "timestamp": "2026-10-16T17:26:53.007Z",
+        "region": "NORTE",
+        "plaza": "CHIHUAHUA,CHIHUAHUA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE BAJA CALIFORNIA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1r3VmyHCyx1zOH6blthHT4uki9lBD_ARo",
+        "abogado_solicitante": "ISAID VARGAS CHAIREZ",
+        "name_file": "051-2026-II - ISAID VARGAS CHAIREZ.pdf",
+        "folio_sugo": "260366823TSJJUD"
+    },
+    {
+        "oficio_autoridad": "2109/2026",
+        "expediente_autoridad": "288/2026",
+        "estado_region": "Sonora",
+        "autoridad_oficio": "Poder Judicial del Estado de Sonora",
+        "subautoridad": "Segundo Tribunal Laboral del Distrito Judicial 1, con sede en Hermosillo, Sonora",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar el nombre del titular de las cuentas y tarjetas especificadas, así como si recibieron transferencias procedentes de las cuentas de Banco Santander México indicadas durante el periodo del 15 de noviembre de 2024 al 30 de abril de 2026, detallando fechas y cantidades en caso afirmativo.",
+        "acciones_solicitadas": [
+            "Informar el nombre del titular de las cuentas y tarjetas especificadas",
+            "Informar si las cuentas o tarjetas recibieron transferencias de las cuentas de Banco Santander México indicadas en el periodo señalado",
+            "Informar detalladamente la fecha y cantidades de las operaciones en caso afirmativo"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "",
+                "nombre": "",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "4152314375006072",
+                    "4169161459637145"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 20,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar el nombre del titular de las cuentas y tarjetas especificadas",
+            "Informar si las cuentas o tarjetas recibieron transferencias de las cuentas de Banco Santander México indicadas en el periodo señalado",
+            "Informar detalladamente la fecha y cantidades de las operaciones en caso afirmativo"
+        ],
+        "timestamp": "2026-10-16T17:26:53.009Z",
+        "region": "NORESTE",
+        "plaza": "DURANGO,DURANGO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE SONORA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=13Vrs0Zz5CaEB0JYPkcs3s19UQAflSIYG",
+        "abogado_solicitante": "ERIKA ROMERO BECERRA",
+        "name_file": "2109-2026 - ERIKA ROMERO BECERRA.pdf",
+        "folio_sugo": "260366827TSJJUD"
+    },
+    {
+        "oficio_autoridad": "1197/2026",
+        "expediente_autoridad": "00325/2024",
+        "estado_region": "Tamaulipas",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE TAMAULIPAS",
+        "subautoridad": "SEGUNDO TRIBUNAL LABORAL DE LA QUINTA REGIÓN JUDICIAL EN EL ESTADO DE TAMAULIPAS",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar la existencia de cuentas bancarias, contratos, depósitos, inversiones, cuentas de ahorro, cuentas de cheques, cuenta de nómina, inversiones a plazo, fondos o cualquier otro producto financiero respecto de los cuales la demandada AURA YESSICA BARREREA REZA aparezca como titular, así como el saldo de cada uno.",
+        "acciones_solicitadas": [
+            "Informar la existencia de cuentas bancarias, contratos, depósitos, inversiones y otros productos financieros de la demandada",
+            "Informar el saldo de cada producto financiero encontrado"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "AURA YESSICA BARREREA REZA",
+                "rfc": "BARA7501029F2",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 11730,
+                "moneda": "MXN",
+                "cantidad_unidades": 100,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar la existencia de cuentas bancarias, contratos, depósitos, inversiones y otros productos financieros de la demandada",
+            "Informar el saldo de cada producto financiero encontrado"
+        ],
+        "timestamp": "2026-10-16T17:26:53.009Z",
+        "region": "NORTE",
+        "plaza": "CHIHUAHUA,CHIHUAHUA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE TAMAULIPAS",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=16nO2zbT5DNiNXdSTkLPpZHRHqg9YtJ0d",
+        "abogado_solicitante": "ISAID VARGAS CHAIREZ",
+        "name_file": "00325-2024 - ISAID VARGAS CHAIREZ.pdf",
+        "folio_sugo": "260366828TSJJUD"
+    },
+    {
+        "oficio_autoridad": "3065/2026",
+        "expediente_autoridad": "329/2019",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "Tribunal Local de Conciliación y Arbitraje del Estado de Sinaloa",
+        "subautoridad": "",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Proporcionar al actuario adscrito la documentación y facilidades necesarias para llevar a cabo el desahogo de la prueba cotejo del estado de cuenta con número 1573526313, periodo del 19 de noviembre al 18 de diciembre de 2018, a nombre de Kenia Guadalupe Zamora Velázquez, señalada para el veintisiete de octubre de dos mil veintiséis a las doce horas.",
+        "acciones_solicitadas": [
+            "Proporcionar al actuario la documentación necesaria para el desahogo de la prueba cotejo",
+            "Otorgar facilidades en las instalaciones del banco para llevar a cabo la diligencia"
+        ],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "FECHA_ESPECIFICA",
+            "tipo_dias": "",
+            "fecha_limite": "27 de octubre de 2026"
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "KENIA GUADALUPE ZAMORA VELAZQUEZ",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "1573526313"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 7,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Proporcionar al actuario la documentación necesaria para el desahogo de la prueba cotejo",
+            "Otorgar facilidades en las instalaciones del banco para llevar a cabo la diligencia"
+        ],
+        "timestamp": "2026-10-16T17:26:53.012Z",
+        "region": "BAJIO",
+        "plaza": "AGUASCALIENTES,AGUASCALIENTES",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "TRIBUNAL JLCA DEL ESTADO DE SINALOA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1GlXLMvcs-esB0tCJVFDSzobiecTFU0By",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "329-2019 ARC INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366829TSJJUD"
+    },
+    {
+        "oficio_autoridad": "4810/2026",
+        "expediente_autoridad": "542/2025",
+        "estado_region": "BAJA CALIFORNIA",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA",
+        "subautoridad": "JUZGADO SEGUNDO DE LO FAMILIAR",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "00031/2026",
+        "instrucciones_oficio": "Informar dentro del término de tres días hábiles sobre los registros a nombre de Karina López Morales con RFC LOMK911107FZ3.",
+        "acciones_solicitadas": [
+            "Informar sobre los registros a nombre de la persona indicada"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "KARINA LÓPEZ MORALES",
+                "rfc": "LOMK911107FZ3",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar sobre los registros a nombre de la persona indicada"
+        ],
+        "timestamp": "2026-10-16T17:26:53.013Z",
+        "region": "NOROESTE",
+        "plaza": "TIJUANA, BAJA CALIFORNIA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1hTEjiDfbeIJpZq9Cgvu4_TUiCMpUZS0g",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "0031-2026 ARC INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366830TSJJUD"
+    },
+    {
+        "oficio_autoridad": "5950",
+        "expediente_autoridad": "00540/2026",
+        "estado_region": "Tamaulipas",
+        "autoridad_oficio": "PODER JUDICIAL DE TAMAULIPAS",
+        "subautoridad": "JUZGADO SEPTIMO FAMILIAR DE PRIMERA INSTANCIA DEL SEGUNDO DISTRITO JUDICIAL EN EL ESTADO",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si existe cuenta a nombre de Marco Antonio Nava del Angel, informar el saldo de dicha cuenta de ser afirmativa la respuesta, y proporcionar los estados de cuenta correspondientes del mes de septiembre de 2025 a septiembre de 2026.",
+        "acciones_solicitadas": [
+            "Informar si existe cuenta a nombre de la persona indicada",
+            "Informar el saldo de la cuenta en caso afirmativo",
+            "Proporcionar los estados de cuenta de septiembre de 2025 a septiembre de 2026"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARCO ANTONIO NAVA DEL ANGEL",
+                "rfc": "NAAM800118LY4",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existe cuenta a nombre de la persona indicada",
+            "Informar el saldo de la cuenta en caso afirmativo",
+            "Proporcionar los estados de cuenta de septiembre de 2025 a septiembre de 2026"
+        ],
+        "timestamp": "2026-10-16T17:26:53.014Z",
+        "region": "NORESTE",
+        "plaza": "TAMPICO,TAMAULIPAS",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE TAMAULIPAS",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1-gX-hujsjgPVpgdLoe027rK6hYDd35ok",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "00540-2026 ARC INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366832TSJJUD"
+    },
+    {
+        "oficio_autoridad": "3432/2026-C",
+        "expediente_autoridad": "648/2026-C",
+        "estado_region": "Baja California",
+        "autoridad_oficio": "Poder Judicial del Estado de Baja California",
+        "subautoridad": "Juzgado Tercero Civil de Primera Instancia del Partido Judicial de Ensenada",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si en los archivos de la institución se encuentra registrado domicilio a nombre de Sagrario Guadalupe Espinoza Reyez y Sandra Luz Espinoza Reyez, indicando el nombre y cargo de la persona que realizó la búsqueda, así como los archivos y documentos tenidos a la vista.",
+        "acciones_solicitadas": [
+            "Informar si se encuentra registrado domicilio a nombre de Sagrario Guadalupe Espinoza Reyez",
+            "Informar si se encuentra registrado domicilio a nombre de Sandra Luz Espinoza Reyez",
+            "Proporcionar el nombre y cargo de la persona que realizó la búsqueda",
+            "Indicar los archivos, documentos y demás elementos tenidos a la vista para la búsqueda",
+            "Proporcionar lista y domicilios de registros detectados en caso de homónimos"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Sagrario Guadalupe Espinoza Reyez",
+                "rfc": "",
+                "cuentas_especificas": []
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Sandra Luz Espinoza Reyez",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 40,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "nombre_persona": "",
+                "cargo": ""
+            }
+        ],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si se encuentra registrado domicilio a nombre de Sagrario Guadalupe Espinoza Reyez",
+            "Informar si se encuentra registrado domicilio a nombre de Sandra Luz Espinoza Reyez",
+            "Proporcionar el nombre y cargo de la persona que realizó la búsqueda",
+            "Indicar los archivos, documentos y demás elementos tenidos a la vista para la búsqueda",
+            "Proporcionar lista y domicilios de registros detectados en caso de homónimos"
+        ],
+        "timestamp": "2026-10-16T17:26:53.015Z",
+        "region": "NOROESTE",
+        "plaza": "TIJUANA, BAJA CALIFORNIA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1j3CUeQ-YkdJoyQSAmI5Tnt3n0EY1pgy6",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "648-2026-C ARC INS 2 - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366833TSJJUD"
+    },
+    {
+        "oficio_autoridad": "6898/2026",
+        "expediente_autoridad": "833/2023",
+        "estado_region": "Estado de México",
+        "autoridad_oficio": "Poder Judicial del Estado de México",
+        "subautoridad": "Juzgado Segundo Familiar del Distrito Judicial de Toluca",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar la existencia de cuentas de Joselyn Estefania Iniesta Villa y Pablo Moreno Alvarez, y remitir los estados de cuenta correspondientes.",
+        "acciones_solicitadas": [
+            "Informar la existencia de cuentas",
+            "Remitir los estados de cuenta"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JOSELYN ESTEFANIA INIESTA VILLA",
+                "rfc": "IIVJ921217215",
+                "cuentas_especificas": []
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "PABLO MORENO ALVAREZ",
+                "rfc": "MOAP870808D14",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 10,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar la existencia de cuentas",
+            "Remitir los estados de cuenta"
+        ],
+        "timestamp": "2026-10-16T17:26:53.016Z",
+        "region": "METROPOLITANA",
+        "plaza": "MEXICO,DISTRITO FEDERAL",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE MEXICO",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1ErK7wZX21s_NXmwjHpN8BGsuecyYkEne",
+        "abogado_solicitante": "JOSE LUIS LOAIZA MORENO",
+        "name_file": "6898-2026 - JOSE LUIS LOAIZA MORENO.pdf",
+        "folio_sugo": "260366835TSJJUD"
+    },
+    {
+        "oficio_autoridad": "2637/2026",
+        "expediente_autoridad": "154/2026",
+        "estado_region": "Chihuahua",
+        "autoridad_oficio": "PODER JUDICIAL ESTADO DE CHIHUAHUA",
+        "subautoridad": "Juzgado Primero Civil por Audiencias del Distrito Judicial Benito Juárez",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si el demandado Cornelius Banman Peters cuenta con cuentas aperturadas en la institución y, en caso afirmativo, remitir los estados de cuenta del periodo del 1 de enero de 2023 al 31 de enero de 2026, conforme a la prórroga concedida.",
+        "acciones_solicitadas": [
+            "Informar si el demandado tiene cuentas aperturadas en la institución",
+            "Remitir los estados de cuenta del periodo comprendido del uno de enero de dos mil veintitrés al treinta y uno de enero de dos mil veintiséis en caso afirmativo"
+        ],
+        "plazo": {
+            "cantidad": 10,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "CORNELIUS BANMAN PETERS",
+                "rfc": "BAPC7312223E6",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si el demandado tiene cuentas aperturadas en la institución",
+            "Remitir los estados de cuenta del periodo comprendido del uno de enero de dos mil veintitrés al treinta y uno de enero de dos mil veintiséis en caso afirmativo"
+        ],
+        "timestamp": "2026-10-16T17:26:53.016Z",
+        "region": "BAJIO",
+        "plaza": "AGUASCALIENTES,AGUASCALIENTES",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL ESTADO DE CHIHUAHUA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1ad1bRlJgjOS1_6czgADaQ_AbL4ts1LFw",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "154-2026 IJ INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366836TSJJUD"
+    },
+    {
+        "oficio_autoridad": "3636/2026",
+        "expediente_autoridad": "1040/2024",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "Poder Judicial",
+        "subautoridad": "Juzgado Sexto de Primera Instancia del Ramo Civil Especializado en Materia Mercantil del Distrito Judicial de Culiacán, Sinaloa",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si en los registros o padrones de clientes se encuentran registradas cuentas de cheques, de ahorros, de inversión a plazo fijo o cualquier tipo de cuenta a nombre de la parte demandada y, de ser así, proporcionarlas.",
+        "acciones_solicitadas": [
+            "Informar si existen cuentas registradas a nombre de la persona demandada",
+            "Proporcionar los datos de las cuentas encontradas"
+        ],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ELVIA ARACELI ESCOBAR GASTELUM",
+                "rfc": "EOGE630821T81",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existen cuentas registradas a nombre de la persona demandada",
+            "Proporcionar los datos de las cuentas encontradas"
+        ],
+        "timestamp": "2026-10-16T17:26:53.017Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1syMk42nAV9NnwuflmgD1B7JkSuhDyu4w",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OFICIO 3636-2026 EXP 1040-2024 Y - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366837TSJJUD"
+    },
+    {
+        "oficio_autoridad": "TSJ/TL1/2209/2026",
+        "expediente_autoridad": "ORD1T-320/2025",
+        "estado_region": "Morelos",
+        "autoridad_oficio": "Poder Judicial",
+        "subautoridad": "Tribunal Laboral",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si la C. Janeli Castillo Rosales aperturó la cuenta 1518188785 en el periodo del 13 de junio de 2017 a 26 de septiembre de 2025, indicar si se le hicieron depósitos por parte de Insomnia Bread S.A. de C.V. y Panificadora Cuernavaca S.A. de C.V. especificando fechas y montos, proporcionar copia certificada de los estados de cuenta del periodo solicitado, e informar bajo qué concepto las morales realizaron transferencias a dicha cuenta.",
+        "acciones_solicitadas": [
+            "Informar si se aperturó la cuenta especificada",
+            "Informar si se hicieron depósitos especificando fechas y montos",
+            "Proporcionar copia certificada de los estados de cuenta del periodo solicitado",
+            "Informar el concepto de las transferencias realizadas"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JANELI CASTILLO ROSALES",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "1518188785"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si se aperturó la cuenta especificada",
+            "Informar si se hicieron depósitos especificando fechas y montos",
+            "Proporcionar copia certificada de los estados de cuenta del periodo solicitado",
+            "Informar el concepto de las transferencias realizadas"
+        ],
+        "timestamp": "2026-10-16T17:26:53.018Z",
+        "region": "ORIENTE",
+        "plaza": "CUERNAVACA,MORELOS",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1mCZWRS6X4ZmUl49WR1nle0ebCtpZIBM_",
+        "abogado_solicitante": "ANTONIO DE JESUS AQUINO SALAZAR",
+        "name_file": "2209 - ANTONIO DE JESUS AQUINO SALAZAR.pdf",
+        "folio_sugo": "260366838TSJJUD"
+    },
+    {
+        "oficio_autoridad": "PJEO/CJO/J5F/3291/2026",
+        "expediente_autoridad": "395/2019",
+        "estado_region": "Oaxaca",
+        "autoridad_oficio": "Poder Judicial del Estado de Oaxaca",
+        "subautoridad": "Juzgado Quinto Familiar del Distrito Judicial de Centro",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Rendir un informe detallado y pormenorizado sobre la apertura de la cuenta 2687372949 a nombre de Elena Elvia Velasco Rios, el saldo que mantuvo en diciembre de 2017, de enero a diciembre de 2018 y de enero a diciembre de 2019, así como el saldo actual de dicha cuenta.",
+        "acciones_solicitadas": [
+            "Informar si se encuentra aperturada la cuenta bancaria especificada a nombre de la persona indicada",
+            "Informar el saldo que mantuvo la cuenta en diciembre de 2017, de enero a diciembre de 2018, y de enero a diciembre de 2019",
+            "Informar el saldo actual de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ELENA ELVIA VELASCO RIOS",
+                "rfc": "VERE640306GCO",
+                "cuentas_especificas": [
+                    "2687372949"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 25,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si se encuentra aperturada la cuenta bancaria especificada a nombre de la persona indicada",
+            "Informar el saldo que mantuvo la cuenta en diciembre de 2017, de enero a diciembre de 2018, y de enero a diciembre de 2019",
+            "Informar el saldo actual de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.019Z",
+        "region": "ORIENTE",
+        "plaza": "OAXACA,OAXACA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE OAXACA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1I6NLLX6UlktIRokYqxbqsTLsivIsVlsD",
+        "abogado_solicitante": "ANTONIO DE JESUS AQUINO SALAZAR",
+        "name_file": "OF.3291-26 EXP.395-19 - ANTONIO DE JESUS AQUINO SALAZAR.pdf",
+        "folio_sugo": "260366839TSJJUD"
+    },
+    {
+        "oficio_autoridad": "1608/2026",
+        "expediente_autoridad": "600/2023",
+        "estado_region": "Baja California",
+        "autoridad_oficio": "Poder Judicial del Estado de Baja California",
+        "subautoridad": "Juzgado Tercero de lo Familiar de Mexicali",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "207/2024",
+        "instrucciones_oficio": "Informar el saldo actual de la cuenta número 1525535803 a nombre de Salvador Aguilar Cortez, y proporcionar la información del oficio consecutivo 260084565TSJJUD a las personas autorizadas que comparezcan con un dispositivo de almacenamiento portátil tipo USB.",
+        "acciones_solicitadas": [
+            "Informar el saldo actual de la cuenta activa número 1525535803",
+            "Proporcionar la información remitida mediante oficio consecutivo 260084565TSJJUD a los comparecientes autorizados con dispositivo USB"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "SALVADOR AGUILAR CORTEZ",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "1525535803"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar el saldo actual de la cuenta activa número 1525535803",
+            "Proporcionar la información remitida mediante oficio consecutivo 260084565TSJJUD a los comparecientes autorizados con dispositivo USB"
+        ],
+        "timestamp": "2026-10-16T17:26:53.019Z",
+        "region": "NOROESTE",
+        "plaza": "TIJUANA, BAJA CALIFORNIA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1ayLPIkVBXwwq_OmJyqktZEr9ndR0hqpd",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OFICIO 1608-2026 EXP 600-2023 Y - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366840TSJJUD"
+    },
+    {
+        "oficio_autoridad": "10,338",
+        "expediente_autoridad": "513/2013/III",
+        "estado_region": "Veracruz",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE VERACRUZ",
+        "subautoridad": "JUZGADO PRIMERO DE PRIMERA INSTANCIA DE JUSTICIA FAMILIAR DEL DISTRITO JUDICIAL DE CÓRDOBA",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Localizar cuentas a nombre de Alicia Chavez Morales y Raquel Yazmin Hernandez Cruz, e informar si se encuentran activas y el saldo actual que tienen.",
+        "acciones_solicitadas": [
+            "Localizar cuentas a nombre de las personas indicadas",
+            "Informar si las cuentas se encuentran activas y el saldo actual que tienen"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ALICIA CHAVEZ MORALES",
+                "rfc": "CAMA4205165C2",
+                "cuentas_especificas": []
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "RAQUEL YAZMIN HERNANDEZ CRUZ",
+                "rfc": "HECR060412MVZRRQA5",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 2346.2,
+                "moneda": "MXN",
+                "cantidad_unidades": 20,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": 117.31
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Localizar cuentas a nombre de las personas indicadas",
+            "Informar si las cuentas se encuentran activas y el saldo actual que tienen"
+        ],
+        "timestamp": "2026-10-16T17:26:53.021Z",
+        "region": "ORIENTE",
+        "plaza": "COATZACOALCOS,VERACRUZ",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE VERACRUZ",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1AitR4pGdYoode5Td3X1b5d8RM5Lrbzn3",
+        "abogado_solicitante": "MARCOS GERARDO VILLANUEVA CETINA",
+        "name_file": "OFICIO 10338 - MARCOS GERARDO VILLANUEVA CETINA.pdf",
+        "folio_sugo": "260366841TSJJUD"
+    },
+    {
+        "oficio_autoridad": "JTF 3986-26",
+        "expediente_autoridad": "01095/2019-11",
+        "estado_region": "DURANGO",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE DURANGO",
+        "subautoridad": "JUZGADO TERCERO DE LO FAMILIAR DEL PRIMER DISTRITO JUDICIAL",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar sobre las cuentas de cheques, ahorro, tarjetas de crédito, inversiones y créditos de Ricardo Alberto Díaz Rosales, remitiendo solicitudes de crédito, estados de cuenta de solvencia moral y movimientos de los últimos cinco años, así como comunicar el trámite otorgado.",
+        "acciones_solicitadas": [
+            "Informar la existencia de cuentas, tarjetas, inversiones y créditos del demandado",
+            "Remitir copias de las solicitudes de crédito del demandado",
+            "Remitir estados de cuenta que manifiesten la solvencia moral del demandado",
+            "Remitir copia de los movimientos de tarjeta de crédito y cheques de los últimos cinco años",
+            "Comunicar el trámite otorgado a lo solicitado"
+        ],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "RICARDO ALBERTO DÍAZ ROSALES",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar la existencia de cuentas, tarjetas, inversiones y créditos del demandado",
+            "Remitir copias de las solicitudes de crédito del demandado",
+            "Remitir estados de cuenta que manifiesten la solvencia moral del demandado",
+            "Remitir copia de los movimientos de tarjeta de crédito y cheques de los últimos cinco años"
+        ],
+        "timestamp": "2026-10-16T17:26:53.022Z",
+        "region": "NORTE",
+        "plaza": "CHIHUAHUA,CHIHUAHUA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE DURANGO",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1PEynBYaSj8PdN2np2EZuvn-zmrymNzJ-",
+        "abogado_solicitante": "ISAID VARGAS CHAIREZ",
+        "name_file": "01095-2019-II - ISAID VARGAS CHAIREZ.pdf",
+        "folio_sugo": "260366842TSJJUD"
+    },
+    {
+        "oficio_autoridad": "",
+        "expediente_autoridad": "560/2024",
+        "estado_region": "MÉXICO",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE MÉXICO",
+        "subautoridad": "JUZGADO SEGUNDO FAMILIAR DE PRIMERA INSTANCIA DEL DISTRITO JUDICIAL DE TOLUCA, MÉXICO",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar los estados de cuenta del último año a la fecha de las cuentas existentes a favor de Jeanine Velázquez Mejía y Josué Emmanuel Velázquez Turral, precisando que la solicitud es en virtud de cuestiones inherentes a derechos alimentarios de menores de edad.",
+        "acciones_solicitadas": [
+            "Informar los estados de cuenta del último año a la fecha de las cuentas existentes a favor de Jeanine Velázquez Mejía y Josué Emmanuel Velázquez Turral",
+            "Precisar que la información solicitada es en virtud de cuestiones inherentes a derechos alimentarios de menores de edad"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JEANINE VELAZQUEZ MEJIA",
+                "rfc": "",
+                "cuentas_especificas": []
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JOSUE EMMANUEL VELAZQUEZ TURRAL",
+                "rfc": "VTJ780422L30",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 10,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar los estados de cuenta del último año a la fecha de las cuentas existentes a favor de Jeanine Velázquez Mejía y Josué Emmanuel Velázquez Turral",
+            "Precisar que la información solicitada es en virtud de cuestiones inherentes a derechos alimentarios de menores de edad"
+        ],
+        "timestamp": "2026-10-16T17:26:53.022Z",
+        "region": "METROPOLITANA",
+        "plaza": "MEXICO,DISTRITO FEDERAL",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE MEXICO",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1q9o04wot8IblnmkeULYaPK69hnb13x51",
+        "abogado_solicitante": "JOSE LUIS LOAIZA MORENO",
+        "name_file": "560-2024 - JOSE LUIS LOAIZA MORENO.pdf",
+        "folio_sugo": "260366843TSJJUD"
+    },
+    {
+        "oficio_autoridad": "3201/2026",
+        "expediente_autoridad": "285/2026",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "Poder Judicial del Estado de Sinaloa",
+        "subautoridad": "Juzgado Quinto de Primera Instancia del Ramo Familiar Especializado en Materia de Adopciones, Alimentos, Filiación, Custodia y Convivencia del Distrito Judicial de Culiacán, Sinaloa",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si Myriam Paola Villalpando Núñez tiene aperturada una cuenta específica, si ingresaron diversas transferencias vía SPEI desde la cuenta de origen de Jesús Alfredo Félix Barreda, si se realizaron otras transferencias o depósitos en fechas diferentes, y remitir los estados de cuenta certificados de la cuenta del 1 de enero de 2025 al 15 de abril de 2026.",
+        "acciones_solicitadas": [
+            "Informar si la persona cuenta con la cuenta bancaria especificada",
+            "Informar si ingresaron las transferencias vía SPEI señaladas a la cuenta",
+            "Informar si se realizaron otras transferencias o depósitos en fechas diferentes",
+            "Remitir los estados de cuenta certificados en el periodo solicitado"
+        ],
+        "plazo": {
+            "cantidad": 5,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Myriam Paola Villalpando Núñez",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "1510524486"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 3566.22,
+                "moneda": "MXN",
+                "cantidad_unidades": 30,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la persona cuenta con la cuenta bancaria especificada",
+            "Informar si ingresaron las transferencias vía SPEI señaladas a la cuenta",
+            "Informar si se realizaron otras transferencias o depósitos en fechas diferentes",
+            "Remitir los estados de cuenta certificados en el periodo solicitado"
+        ],
+        "timestamp": "2026-10-16T17:26:53.023Z",
+        "region": "NORESTE",
+        "plaza": "DURANGO,DURANGO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE SINALOA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1VsYlpU61pKdjle39fr_VHza533J3xznZ",
+        "abogado_solicitante": "ERIKA ROMERO BECERRA",
+        "name_file": "OFICIO 3201-2026 EXP 285-2026 - ERIKA ROMERO BECERRA.pdf",
+        "folio_sugo": "260366845TSJJUD"
+    },
+    {
+        "oficio_autoridad": "2586/2026",
+        "expediente_autoridad": "318/2026",
+        "estado_region": "Michoacán",
+        "autoridad_oficio": "Poder Judicial de Michoacán",
+        "subautoridad": "Juzgado Segundo de Primera Instancia en Materia Familiar de Uruapan",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si la cuenta 0074.3607.62.1545524859 a nombre de Guillermo Cuitláhuac Guzmán García tiene registro de beneficiarios y, en caso afirmativo, proporcionar los nombres e información de los mismos, así como los datos y constancias que lo acrediten.",
+        "acciones_solicitadas": [
+            "Informar si la cuenta bancaria tiene registro de beneficiarios",
+            "Informar los nombres e información de los beneficiarios en caso afirmativo",
+            "Proporcionar los datos y constancias que acrediten la información"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Guillermo Cuitláhuac Guzmán García",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "0074.3607.62.1545524859"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la cuenta bancaria tiene registro de beneficiarios",
+            "Informar los nombres e información de los beneficiarios en caso afirmativo",
+            "Proporcionar los datos y constancias que acrediten la información"
+        ],
+        "timestamp": "2026-10-16T17:26:53.023Z",
+        "region": "OCCIDENTE",
+        "plaza": "MORELIA,MICHOACAN",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE MICHOACAN",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=11i7y1EM7sEx-_2G_6ZTG1GkLk3jKkpRN",
+        "abogado_solicitante": "DAVID GARCIA GUZMAN",
+        "name_file": "CR1227_Info_1 - DAVID GARCIA GUZMAN.pdf",
+        "folio_sugo": "260366846TSJJUD"
+    },
+    {
+        "oficio_autoridad": "6346-2026",
+        "expediente_autoridad": "153/2018-E",
+        "estado_region": "Querétaro",
+        "autoridad_oficio": "Poder Judicial del Estado de Querétaro",
+        "subautoridad": "Juzgado Segundo de Primera Instancia Familiar",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Rendir un informe detallado respecto de la cuenta bancaria 1561385595 y sobre la existencia de cuentas a nombre de la persona menor de edad Renata Huerta Juárez, informando representantes, remitiendo contratos, estados de cuenta, relación de abonos, retiros, cuentas de origen y transferencias, dentro del plazo de cinco días hábiles.",
+        "acciones_solicitadas": [
+            "Informar si la menor tiene o ha tenido cuentas a su nombre, indicando número y fecha de apertura",
+            "Informar el representante, apoderado o persona facultada para el manejo de las cuentas",
+            "Remitir copia del contrato de apertura y documentación relacionada",
+            "Remitir los estados de cuenta desde la apertura hasta la fecha del informe",
+            "Informar la relación de abonos recibidos con fecha, importe, concepto y cuenta/titular de origen",
+            "Informar los retiros o disposiciones de fondos con fecha, importe y persona que los realizó",
+            "Informar el titular de la cuenta de origen de los abonos y su fecha de apertura",
+            "Remitir la relación de transferencias realizadas desde la cuenta de origen hacia la cuenta de la menor"
+        ],
+        "plazo": {
+            "cantidad": 5,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "RENATA HUERTA JUÁREZ",
+                "rfc": "HUJR150819",
+                "cuentas_especificas": [
+                    "1561385595"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 30,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la menor tiene o ha tenido cuentas a su nombre, indicando número y fecha de apertura",
+            "Informar el representante, apoderado o persona facultada para el manejo de las cuentas",
+            "Remitir copia del contrato de apertura y documentación relacionada",
+            "Remitir los estados de cuenta desde la apertura hasta la fecha del informe",
+            "Informar la relación de abonos recibidos con fecha, importe, concepto y cuenta/titular de origen",
+            "Informar los retiros o disposiciones de fondos con fecha, importe y persona que los realizó",
+            "Informar el titular de la cuenta de origen de los abonos y su fecha de apertura",
+            "Remitir la relación de transferencias realizadas desde la cuenta de origen hacia la cuenta de la menor"
+        ],
+        "timestamp": "2026-10-16T17:26:53.024Z",
+        "region": "SURESTE",
+        "plaza": "CANCUN,QUINTANA ROO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE QUERETARO",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1GBxf-rx6-G2fBylBaezVwAwwmgMGvHoa",
+        "abogado_solicitante": "ANTONIO DE JESUS AQUINO SALAZAR",
+        "name_file": "OF.6346-26 EXP.153-18-E - ANTONIO DE JESUS AQUINO SALAZAR.pdf",
+        "folio_sugo": "260366847TSJJUD"
+    },
+    {
+        "oficio_autoridad": "1794/2026",
+        "expediente_autoridad": "72/2026-11",
+        "estado_region": "Tamaulipas",
+        "autoridad_oficio": "Poder Judicial de la Federación",
+        "subautoridad": "Cuarto Tribunal Laboral Federal de Asuntos Individuales en el Estado de Tamaulipas, con sede en Reynosa",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar el titular de la cuenta bancaria 1525434397, quién realizó los depósitos y/o abonos por pago de nómina al actor Miguel Angel Ayala Rangel en dicha cuenta durante el periodo del 19 de febrero de 2024 al 05 de agosto de 2025, así como las cantidades abonadas bajo dichos rubros en el periodo indicado.",
+        "acciones_solicitadas": [
+            "Informar el titular de la cuenta bancaria 1525434397",
+            "Informar quién realizó los depósitos o abonos por pago de nómina a la cuenta 1525434397 del actor Miguel Angel Ayala Rangel",
+            "Informar las cantidades abonadas al actor Miguel Angel Ayala Rangel en la cuenta 1525434397 bajo los rubros de pago de nómina"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Miguel Angel Ayala Rangel",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "1525434397"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 11731,
+                "moneda": "MXN",
+                "cantidad_unidades": 100,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar el titular de la cuenta bancaria 1525434397",
+            "Informar quién realizó los depósitos o abonos por pago de nómina a la cuenta 1525434397 del actor Miguel Angel Ayala Rangel",
+            "Informar las cantidades abonadas al actor Miguel Angel Ayala Rangel en la cuenta 1525434397 bajo los rubros de pago de nómina"
+        ],
+        "timestamp": "2026-10-16T17:26:53.024Z",
+        "region": "NORESTE",
+        "plaza": "TAMPICO,TAMAULIPAS",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1XzRsMxjemJQsVyCnTr3Bom6twwh8rhCU",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "72-2026-II ARC INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366848TSJJUD"
+    },
+    {
+        "oficio_autoridad": "",
+        "expediente_autoridad": "295/2009-A",
+        "estado_region": "Tlaxcala",
+        "autoridad_oficio": "Poder Judicial de la Federación",
+        "subautoridad": "Juzgado Segundo de Distrito en el Estado de Tlaxcala",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Dar cumplimiento en un plazo de prórroga de diez días hábiles al requerimiento formulado en el proveído de veinticinco de septiembre de dos mil veintiséis.",
+        "acciones_solicitadas": [
+            "Dar cumplimiento al requerimiento formulado en el proveído de veinticinco de septiembre de dos mil veintiséis"
+        ],
+        "plazo": {
+            "cantidad": 10,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "",
+        "evidencia_clasificacion": [],
+        "timestamp": "2026-10-16T17:26:53.025Z",
+        "region": "BAJIO",
+        "plaza": "JALISCO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1bClMsr3obRl3Tt0JWDN1fBwSBhT2WsLM",
+        "abogado_solicitante": "JOAQUIN PARADA LEZAMA",
+        "name_file": "BUZONUNIVERSAL713644260 - JOAQUIN PARADA LEZAMA.pdf",
+        "folio_sugo": "260366849TSJJUD"
+    },
+    {
+        "oficio_autoridad": "22098",
+        "expediente_autoridad": "JOF/DJP/1325/2021/A",
+        "estado_region": "Puebla",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE PUEBLA",
+        "subautoridad": "JUZGADO DE ORALIDAD FAMILIAR DEL DISTRITO JUDICIAL DE PUEBLA",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar respecto al ex colaborador Víctor Javier Barraza Pérez la cantidad y porcentaje puesto a disposición de María José Fuentes Hernández por concepto de finiquito ordinario y plan Porvenir, la cantidad total del último pago de finiquito, y el desglose de los últimos doce pagos mensuales de pensión alimenticia entregados a María José Fuentes Hernández.",
+        "acciones_solicitadas": [
+            "Informar la cantidad y porcentaje puesto a disposición por concepto de Finiquito Ordinario",
+            "Informar la cantidad y porcentaje puesto a disposición por concepto de Finiquito Plan Porvenir",
+            "Informar la cantidad total del último pago realizado incluyendo cuestiones de finiquito ordinarias y extraordinarias",
+            "Informar la cantidad total entregada por concepto de pensión alimenticia de forma mensual y desglosar los últimos doce pagos mensuales anteriores al pago del finiquito"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "VÍCTOR JAVIER BARRAZA PÉREZ",
+                "rfc": "",
+                "cuentas_especificas": []
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARÍA JOSÉ FUENTES HERNÁNDEZ",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 50,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "informe juridico",
+        "evidencia_clasificacion": [
+            "Informar la cantidad y porcentaje puesto a disposición por concepto de Finiquito Ordinario",
+            "Informar la cantidad y porcentaje puesto a disposición por concepto de Finiquito Plan Porvenir",
+            "Informar la cantidad total del último pago realizado incluyendo cuestiones de finiquito ordinarias y extraordinarias",
+            "Informar la cantidad total entregada por concepto de pensión alimenticia de forma mensual y desglosar los últimos doce pagos mensuales anteriores al pago del finiquito"
+        ],
+        "timestamp": "2026-10-16T17:26:53.025Z",
+        "region": "ORIENTE",
+        "plaza": "PUEBLA,PUEBLA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE PUEBLA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1Xw2DnRmMR_zNOYUyUeuNejkLueqDMVI8",
+        "abogado_solicitante": "JOAQUIN PARADA LEZAMA",
+        "name_file": "Escaneado_desde_un_multifuncional_Lexmark15-10-2026-094758 - JOAQUIN PARADA LEZAMA.pdf",
+        "folio_sugo": "260366852TSJJUD"
+    },
+    {
+        "oficio_autoridad": "379S/2026",
+        "expediente_autoridad": "972/2025",
+        "estado_region": "Coahuila de Zaragoza",
+        "autoridad_oficio": "Poder Judicial del Estado de Coahuila de Zaragoza",
+        "subautoridad": "Juzgado Primero de Primera Instancia en Materia Familiar del Distrito Judicial de Saltillo",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar en el plazo de tres días los depósitos que ha estado realizando Armando Villela Sánchez y que ha estado exhibiendo dentro del expediente.",
+        "acciones_solicitadas": [
+            "Informar los depósitos realizados por Armando Villela Sánchez"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ARMANDO VILLELA SÁNCHEZ",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 6300.8,
+                "moneda": "MXN",
+                "cantidad_unidades": 20,
+                "tipo_unidad": "SALARIO_MINIMO",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar los depósitos realizados por Armando Villela Sánchez"
+        ],
+        "timestamp": "2026-10-16T17:26:53.026Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1l7Cz0sGexdwC_29Ls8zDYE46DGI4hdoc",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "oF. 3795-2026 Exp. 972-2025 - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366853TSJJUD"
+    },
+    {
+        "oficio_autoridad": "J1CF/2175/2026-FAM",
+        "expediente_autoridad": "00375/2022",
+        "estado_region": "Tamaulipas",
+        "autoridad_oficio": "PODER JUDICIAL DE TAMAULIPAS",
+        "subautoridad": "JUZGADO PRIMERO CIVIL Y FAMILIAR DE PRIMERA INSTANCIA, DEL SÉPTIMO DISTRITO JUDICIAL DEL ESTADO",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si el deudor cuenta con cuentas bancarias registradas y, en caso afirmativo, reportar el saldo y los movimientos desde su apertura.",
+        "acciones_solicitadas": [
+            "Informar si tiene cuentas bancarias registradas",
+            "Informar el saldo con el que cuenta",
+            "Informar los movimientos desde su apertura"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "CARLOS ALANIS LEAL",
+                "rfc": "AALC7601149H3",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si tiene cuentas bancarias registradas",
+            "Informar el saldo con el que cuenta",
+            "Informar los movimientos desde su apertura"
+        ],
+        "timestamp": "2026-10-16T17:26:53.026Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE TAMAULIPAS",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1bvZGHnmN-K3LbQsweSzAThMMS16qg8fz",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "Oficio J1CF-2175-2026-FAM Exp 00375-2022 - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366854TSJJUD"
+    },
+    {
+        "oficio_autoridad": "43629/2026",
+        "expediente_autoridad": "1074/2026-VI",
+        "estado_region": "Jalisco",
+        "autoridad_oficio": "Poder Judicial de la Federación",
+        "subautoridad": "Juzgado Cuarto de Distrito en Materia Administrativa en el Estado de Jalisco",
+        "oficio_subautoridad": "43629/2026",
+        "expediente_subautoridad": "1074/2026-VI",
+        "instrucciones_oficio": "",
+        "acciones_solicitadas": [],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "",
+        "evidencia_clasificacion": [],
+        "timestamp": "2026-10-16T17:26:53.027Z",
+        "region": "BAJIO",
+        "plaza": "JALISCO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1-NlvHSBU6CFZzLxtCcXNE26wBtyrfF5D",
+        "abogado_solicitante": "JOAQUIN PARADA LEZAMA",
+        "name_file": "4362914-10-2026-132254-1 - JOAQUIN PARADA LEZAMA.pdf",
+        "folio_sugo": "260366855TSJJUD"
+    },
+    {
+        "oficio_autoridad": "5363/2026",
+        "expediente_autoridad": "834/2024",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "PODER JUDICIAL",
+        "subautoridad": "JUZGADO PRIMERO DE PRIMERA INSTANCIA DEL RAMO FAMILIAR ESPECIALIZADO EN DIVORCIOS JUDICIALES",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar en el término de cinco días la fecha de apertura inicial de la cuenta con terminación 3024, así como si ha sido renovada desde su apertura hasta su liquidación, especificando los montos de créditos solicitados y las tasas de interés manejadas.",
+        "acciones_solicitadas": [
+            "Informar la fecha de apertura inicial de la cuenta con terminación 3024",
+            "Informar si la cuenta con terminación 3024 ha sido renovada desde su apertura hasta su liquidación, especificando montos de créditos solicitados y tasas de interés"
+        ],
+        "plazo": {
+            "cantidad": 5,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "",
+                "nombre": "",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "3024"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 3519.3,
+                "moneda": "MXN",
+                "cantidad_unidades": 30,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar la fecha de apertura inicial de la cuenta con terminación 3024",
+            "Informar si la cuenta con terminación 3024 ha sido renovada desde su apertura hasta su liquidación, especificando montos de créditos solicitados y tasas de interés"
+        ],
+        "timestamp": "2026-10-16T17:26:53.027Z",
+        "region": "NORESTE",
+        "plaza": "DURANGO,DURANGO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1g5iX5SmwlHuBZsTVwzD4sFXgNfwx6bSu",
+        "abogado_solicitante": "ERIKA ROMERO BECERRA",
+        "name_file": "OF 5363-2026 EXP 834-2024 ERIKA - ERIKA ROMERO BECERRA.pdf",
+        "folio_sugo": "260366857TSJJUD"
+    },
+    {
+        "oficio_autoridad": "OFICIO-2514/2026",
+        "expediente_autoridad": "EXPEDIENTE-0646/2022",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "PODER JUDICIAL",
+        "subautoridad": "JUZGADO TERCERO DE PRIMERA INSTANCIA DEL RAMO FAMILIAR DEL DISTRITO JUDICIAL DE AHOME",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si se tiene aperturada alguna cuenta bancaria a nombre de Alvaro Espinoza Ruiz y/o Alvaro Espinoza, el tipo de cuenta, la cantidad económica depositada, poner a disposición los recursos económicos en la cuenta del Fondo Auxiliar para la Administración de Justicia del Estado de Sinaloa en caso de existir, e informar si dichas cuentas tuvieron movimientos de retiro o transferencia después del 13 de mayo de 2022.",
+        "acciones_solicitadas": [
+            "Informar si tiene cuenta bancaria aperturada a nombre de Alvaro Espinoza Ruiz y/o Alvaro Espinoza",
+            "Informar el tipo de cuenta o cuentas aperturadas",
+            "Informar la cantidad económica depositada",
+            "Poner a disposición los recursos económicos a través de la cuenta del Fondo Auxiliar para la Administración de Justicia del Estado de Sinaloa",
+            "Informar si las cuentas tuvieron movimientos de retiro o transferencia después del 13 de mayo de 2022"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Alvaro Espinoza Ruiz y/o Alvaro Espinoza",
+                "rfc": "EIRA421003HV9",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [
+            {
+                "monto": null,
+                "moneda": ""
+            }
+        ],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 4692.04,
+                "moneda": "MXN",
+                "cantidad_unidades": 40,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si tiene cuenta bancaria aperturada a nombre de Alvaro Espinoza Ruiz y/o Alvaro Espinoza",
+            "Informar el tipo de cuenta o cuentas aperturadas",
+            "Informar la cantidad económica depositada",
+            "Poner a disposición los recursos económicos a través de la cuenta del Fondo Auxiliar para la Administración de Justicia del Estado de Sinaloa",
+            "Informar si las cuentas tuvieron movimientos de retiro o transferencia después del 13 de mayo de 2022"
+        ],
+        "timestamp": "2026-10-16T17:26:53.028Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "ASEGURAMIENTOS",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "PODER JUDICIAL DEL ESTADO DE SINALOA",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1XzKZ2a-w-V4KLC80LeP6797i6AC1grRA",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OF 2514-2026 EXP 0646-2022 SUCESORIO Y - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366858TSJASE"
+    },
+    {
+        "oficio_autoridad": "2189/2026",
+        "expediente_autoridad": "713/2025-1",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "Poder Judicial",
+        "subautoridad": "Juzgado Primero de Primera Instancia del Ramo Civil del Distrito Judicial de Ahome",
+        "oficio_subautoridad": "1512/2026",
+        "expediente_subautoridad": "713/2025",
+        "instrucciones_oficio": "Dar contestación en el término de tres días al oficio número 1512/2026 proporcionando de forma clara y precisa la información requerida sobre la forma en que se cobró o ejerció el crédito número 00742357809828289552, indicando si se depositó en cuenta bancaria con fecha y datos de la cuenta o si se entregó en cheque con fecha y datos de quien lo recibió.",
+        "acciones_solicitadas": [
+            "Dar contestación al oficio número 1512/2026",
+            "Proporcionar información sobre la forma en que se cobró o ejerció el crédito número 00742357809828289552"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "",
+                "nombre": "",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "00742357809828289552"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 120,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Dar contestación al oficio número 1512/2026",
+            "Proporcionar información sobre la forma en que se cobró o ejerció el crédito número 00742357809828289552"
+        ],
+        "timestamp": "2026-10-16T17:26:53.028Z",
+        "region": "NORESTE",
+        "plaza": "DURANGO,DURANGO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1S-e9rI4mVJ4ejwr_NGmdZN4O88UI1QrD",
+        "abogado_solicitante": "ERIKA ROMERO BECERRA",
+        "name_file": "OF 2189-2026 EXP 713-2025-1 ERIKA - ERIKA ROMERO BECERRA.pdf",
+        "folio_sugo": "260366859TSJJUD"
+    },
+    {
+        "oficio_autoridad": "25553/2026-1",
+        "expediente_autoridad": "987/2024-II",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "Poder Judicial de la Federación",
+        "subautoridad": "Juzgado Tercero de Distrito en el Estado de Sinaloa",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si en la base de datos de la institución la parte demandada Guadalupe López Félix aparece como titular de alguna cuenta bancaria, y en caso afirmativo, indicar el número de cuenta o cuentas así como el saldo que presentan.",
+        "acciones_solicitadas": [
+            "Informar si la parte demandada aparece como titular de alguna cuenta bancaria",
+            "Proporcionar el número de cuenta o cuentas y el saldo que presentan"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Guadalupe López Félix",
+                "rfc": "LOFG590904PK7",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la parte demandada aparece como titular de alguna cuenta bancaria",
+            "Proporcionar el número de cuenta o cuentas y el saldo que presentan"
+        ],
+        "timestamp": "2026-10-16T17:26:53.028Z",
+        "region": "BAJIO",
+        "plaza": "AGUASCALIENTES,AGUASCALIENTES",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1pPSdFRRzLW3lhhk-d0fFIZCnpy2N2UtL",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "987-2024-II ARC INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366861TSJJUD"
+    },
+    {
+        "oficio_autoridad": "2902",
+        "expediente_autoridad": "13/2025",
+        "estado_region": "Zacatecas",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE ZACATECAS",
+        "subautoridad": "JUZGADO TERCERO DEL RAMO FAMILIAR DE FRESNILLO",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si existen o existieron cuentas bancarias a nombre de América Dayanara Vidales Camacho y de Francisco Javier de la Torre Torres, indicando el tipo de cuentas, el estatus y el monto depositado.",
+        "acciones_solicitadas": [
+            "Informar si existen o existieron cuentas bancarias a nombre de los ciudadanos indicados",
+            "Indicar el tipo de cuentas, el estatus y el monto depositado en las mismas"
+        ],
+        "plazo": {
+            "cantidad": 5,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "AMERICA DAYANARA VIDALES CAMACHO",
+                "rfc": "",
+                "cuentas_especificas": []
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "FRANCISCO JAVIER DE LA TORRE TORRES",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 1500,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existen o existieron cuentas bancarias a nombre de los ciudadanos indicados",
+            "Indicar el tipo de cuentas, el estatus y el monto depositado en las mismas"
+        ],
+        "timestamp": "2026-10-16T17:26:53.029Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE ZACATECAS",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1K7ylLnYKpMXtw0OHtktdVNXrIB1w5c6O",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 13-2025 OFICIO 2902 - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366863TSJJUD"
+    },
+    {
+        "oficio_autoridad": "096/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "020/26-2027/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE CAMPECHE",
+        "subautoridad": "JUZGADO MIXTO CIVIL-FAMILIAR-MERCANTIL DE PRIMERA INSTANCIA DEL CUARTO DISTRITO JUDICIAL DEL ESTADO, SEDE CALKINÍ",
+        "oficio_subautoridad": "096/26-2027/JMCALK-M-IV",
+        "expediente_subautoridad": "020/26-2027/JMCALK-M-IV",
+        "instrucciones_oficio": "Informar si María Durán Rosado y/o María del Socorro Durán Rosado cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma, proporcionando la Clave Única de Población DURS740917MCCRC00.",
+        "acciones_solicitadas": [
+            "Informar si la persona cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARÍA DURÁN ROSADO y/o MARÍA DEL SOCORRO DURÁN ROSADO",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la persona cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.029Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE CAMPECHE",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1FV8TydnIM549cxxe5Vvnhbd0eDE5SjIK",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 020-26-2027-JMCALK-M-IV   OFICION 096-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366864TSJJUD"
+    },
+    {
+        "oficio_autoridad": "1201/2026",
+        "expediente_autoridad": "00091/2026",
+        "estado_region": "Tamaulipas",
+        "autoridad_oficio": "Poder Judicial del Estado de Tamaulipas",
+        "subautoridad": "Segundo Tribunal Laboral de la Quinta Región Judicial en el Estado de Tamaulipas",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar a la autoridad laboral dentro del término de 3 días hábiles si el cheque No. 00002288 de fecha 14 de mayo de 2026 por la cantidad de $126,187.24 pesos de la cuenta bancaria de BBP Reynosa, S. de R.L. de C.V. fue cobrado, la fecha en que se cobró, el nombre de la persona que lo cobró, si fue depositado a una cuenta bancaria o cobrado en efectivo, el número de cuenta y propietario en caso de depósito, y si fue retenido en la institución bancaria BBVA.",
+        "acciones_solicitadas": [
+            "Informar si el cheque No. 00002288 fue cobrado",
+            "Informar la fecha en que se cobró el cheque No. 00002288",
+            "Informar el nombre de la persona que cobró el cheque No. 00002288",
+            "Informar si el cheque No. 00002288 fue depositado a una cuenta bancaria o cobrado en efectivo",
+            "Informar el número de cuenta y el nombre del propietario si el cheque fue depositado a una cuenta bancaria",
+            "Informar si el cheque No. 00002288 fue retenido en la institución bancaria BBVA"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": 126187.24,
+            "moneda": "MXN",
+            "concepto": "monto del cheque No. 00002288"
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "MORAL",
+                "nombre": "BBP REYNOSA, S. DE R.L. DE C.V.",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "080122237360",
+                    "0520975534"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 1173.1,
+                "moneda": "MXN",
+                "cantidad_unidades": 10,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": 117.31
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si el cheque No. 00002288 fue cobrado",
+            "Informar la fecha en que se cobró el cheque No. 00002288",
+            "Informar el nombre de la persona que cobró el cheque No. 00002288",
+            "Informar si el cheque No. 00002288 fue depositado a una cuenta bancaria o cobrado en efectivo",
+            "Informar el número de cuenta y el nombre del propietario si el cheque fue depositado a una cuenta bancaria",
+            "Informar si el cheque No. 00002288 fue retenido en la institución bancaria BBVA"
+        ],
+        "timestamp": "2026-10-16T17:26:53.030Z",
+        "region": "NORESTE",
+        "plaza": "TAMPICO,TAMAULIPAS",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE TAMAULIPAS",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=19olxVNOxMEwAyXUqnUtMHkzK7TPk3dAH",
+        "abogado_solicitante": "ERIKA ROMERO BECERRA",
+        "name_file": "1201-2026 - ERIKA ROMERO BECERRA.pdf",
+        "folio_sugo": "260366865TSJJUD"
+    },
+    {
+        "oficio_autoridad": "29649/2026",
+        "expediente_autoridad": "002340/2026",
+        "estado_region": "Nuevo León",
+        "autoridad_oficio": "Poder Judicial del Estado de Nuevo León",
+        "subautoridad": "Juzgado de Oralidad Mercantil del Primer Distrito Judicial del Estado",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "002340/2026",
+        "instrucciones_oficio": "Rendir la información requerida sobre la cuenta específica de la parte demandada, precisando que el periodo de búsqueda de la prueba documental en vía de informe deberá abarcar del 30 de octubre de 2021 al 30 de octubre de 2025.",
+        "acciones_solicitadas": [
+            "Rendir la información requerida para el periodo del 30 de octubre de 2021 al 30 de octubre de 2025"
+        ],
+        "plazo": {
+            "cantidad": 8,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "MORAL",
+                "nombre": "PROYECTOS QD, ROMA, S.A. PROMOTORA DE INVERSION DE C.V.",
+                "rfc": "PQR1910161D6",
+                "cuentas_especificas": [
+                    "0114098706"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Rendir la información requerida para el periodo del 30 de octubre de 2021 al 30 de octubre de 2025"
+        ],
+        "timestamp": "2026-10-16T17:26:53.030Z",
+        "region": "NORTE",
+        "plaza": "CHIHUAHUA,CHIHUAHUA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE NUEVO LEON",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1n1V-8D8HdqoVja9sv_04zN8C-HIgY6TL",
+        "abogado_solicitante": "ISAID VARGAS CHAIREZ",
+        "name_file": "002340-2026 - ISAID VARGAS CHAIREZ.pdf",
+        "folio_sugo": "260366866TSJJUD"
+    },
+    {
+        "oficio_autoridad": "2280/2026",
+        "expediente_autoridad": "2595/2024",
+        "estado_region": "Coahuila",
+        "autoridad_oficio": "",
+        "subautoridad": "Juzgado Tercero Letrado en Materia Civil del Distrito Judicial de Torreón",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar a la autoridad si existen cuentas bancarias a nombre de la demandada Karen Janeth Encinas Torres en un plazo de tres días hábiles, bajo apercibimiento de multa.",
+        "acciones_solicitadas": [
+            "Informar si existen cuentas bancarias a nombre de la demandada"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "KAREN JANETH ENCINAS TORRES",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existen cuentas bancarias a nombre de la demandada"
+        ],
+        "timestamp": "2026-10-16T17:26:53.031Z",
+        "region": "NORESTE",
+        "plaza": "TORREON,COAHUILA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=14NT-8UElxHIyoB0An7w-zPmIkJR_yP5E",
+        "abogado_solicitante": "ANTONIA ROJO CAMARENA",
+        "name_file": "2595-2024 ARC INS - ANTONIA ROJO CAMARENA.pdf",
+        "folio_sugo": "260366868TSJJUD"
+    },
+    {
+        "oficio_autoridad": "23117/2026",
+        "expediente_autoridad": "2401/2025-VI-B",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "PODER JUDICIAL DE LA FEDERACIÓN",
+        "subautoridad": "Juzgado Cuarto de Distrito en el Estado de Sinaloa",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "2401/2025-VI-B",
+        "instrucciones_oficio": "Informar si el demandado Ricardo Ernesto Aispuro Carrillo tiene alguna cuenta bancaria aperturada a su nombre y embargar las mismas hasta por el monto a que fue condenado en sentencia definitiva.",
+        "acciones_solicitadas": [
+            "Informar si el demandado tiene cuentas bancarias a su nombre",
+            "Embargar las cuentas bancarias hasta por el monto de condena"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Ricardo Ernesto Aispuro Carrillo",
+                "rfc": "AICR871118B93",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 1000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si el demandado tiene cuentas bancarias a su nombre",
+            "Embargar las cuentas bancarias hasta por el monto de condena"
+        ],
+        "timestamp": "2026-10-16T17:26:53.031Z",
+        "region": "NORTE",
+        "plaza": "CHIHUAHUA,CHIHUAHUA",
+        "tipo_oficio": "ASEGURAMIENTOS",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad_especifica": "PODER JUDICIAL DE LA FEDERACION",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1m8Zlyk0XkDg75fG73EPUi2XzliCLLGhW",
+        "abogado_solicitante": "ISAID VARGAS CHAIREZ",
+        "name_file": "2401-2025-VI-B - ISAID VARGAS CHAIREZ.pdf",
+        "folio_sugo": "260366869PJFASE"
+    },
+    {
+        "oficio_autoridad": "41335/2026",
+        "expediente_autoridad": "1432/2026-VIII",
+        "estado_region": "Tlaxcala",
+        "autoridad_oficio": "Poder Judicial de la Federación",
+        "subautoridad": "Juzgado Primero de Distrito en el Estado de Tlaxcala",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Remitir copia autorizada de la sentencia dictada en el juicio de amparo para su conocimiento y efectos legales.",
+        "acciones_solicitadas": [],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "informe juridico",
+        "evidencia_clasificacion": [
+            "Remitir copia autorizada de la sentencia dictada en el juicio de amparo para su conocimiento y efectos legales."
+        ],
+        "timestamp": "2026-10-16T17:26:53.031Z",
+        "region": "BAJIO",
+        "plaza": "JALISCO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1SV0786WmdBEzjzb3EbI-8E0Ws08jvusC",
+        "abogado_solicitante": "JOAQUIN PARADA LEZAMA",
+        "name_file": "BUZONUNIVERSAL2092877258 - JOAQUIN PARADA LEZAMA.pdf",
+        "folio_sugo": "260366870TSJJUD"
+    },
+    {
+        "oficio_autoridad": "41894/2026",
+        "expediente_autoridad": "1275/2026-III",
+        "estado_region": "Tlaxcala",
+        "autoridad_oficio": "Poder Judicial de la Federación",
+        "subautoridad": "Juzgado Primero de Distrito en el Estado de Tlaxcala",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Notificar la sentencia dictada en el juicio de amparo 1275/2026-III para su conocimiento y efectos legales.",
+        "acciones_solicitadas": [],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "informe juridico",
+        "evidencia_clasificacion": [
+            "Notificar la sentencia dictada en el juicio de amparo 1275/2026-III para su conocimiento y efectos legales."
+        ],
+        "timestamp": "2026-10-16T17:26:53.032Z",
+        "region": "BAJIO",
+        "plaza": "JALISCO",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1FlXwFhrJIgXyCFIuY2A04v6z6QMie-ke",
+        "abogado_solicitante": "JOAQUIN PARADA LEZAMA",
+        "name_file": "BUZONUNIVERSAL2101765680 - JOAQUIN PARADA LEZAMA.pdf",
+        "folio_sugo": "260366872TSJJUD"
+    },
+    {
+        "oficio_autoridad": "5832",
+        "expediente_autoridad": "1106/2020",
+        "estado_region": "Aguascalientes",
+        "autoridad_oficio": "Poder Judicial del Estado de Aguascalientes",
+        "subautoridad": "Juzgado Segundo Familiar del Estado",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Rendir informe dentro del término de tres días sobre si la titular Leslie Dorebit Hernández Rodríguez ha recibido transferencias en la cuenta vinculada con tarjeta número 4152 3137 5581 5490 por parte de las ordenantes Liliana Rangel Esparza y Cynthia Mercedes Medina Durón, y en caso afirmativo, exhibir el historial de los depósitos realizados desde su apertura hasta la fecha actual.",
+        "acciones_solicitadas": [
+            "Rendir informe sobre la recepción de transferencias en la cuenta señalada",
+            "Exhibir el historial de los depósitos realizados desde su apertura hasta la fecha actual en caso afirmativo"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "LESLIE DOREBIT HERNÁNDEZ RODRÍGUEZ",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 10,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Rendir informe sobre la recepción de transferencias en la cuenta señalada",
+            "Exhibir el historial de los depósitos realizados desde su apertura hasta la fecha actual en caso afirmativo"
+        ],
+        "timestamp": "2026-10-16T17:26:53.032Z",
+        "region": "METROPOLITANA",
+        "plaza": "MEXICO,DISTRITO FEDERAL",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=12K0MLpTEQe37ZQRwq6dB_bS5XaCgGN2R",
+        "abogado_solicitante": "DAVID GARCIA GUZMAN",
+        "name_file": "CR4199_Info_1 - 2026-10-15T131124.146 - DAVID GARCIA GUZMAN.pdf",
+        "folio_sugo": "260366873TSJJUD"
+    },
+    {
+        "oficio_autoridad": "067/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "003/26-2027/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "Juzgado Mixto Civil-Familiar-Mercantil de Primera Instancia del Cuarto Distrito Judicial del Estado, Sede Calkiní, Campeche",
+        "subautoridad": "",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si Zuleimi Guadalupe Colli Ku cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma.",
+        "acciones_solicitadas": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ZULEIMI GUADALUPE COLLI KU",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.032Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "JDO MIXTO CIV-FAM-MERC 1A INST 4to DTTO JUD EDO SEDE CALKINI",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=12VEFpOEOLynGGTwlqP6CdhGGqtKrvzKB",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "exp. 003-26-2027-jmcalk-m-iv  oficio 067-26-2027-jmcalk-m-iv - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366874TSJJUD"
+    },
+    {
+        "oficio_autoridad": "8783-2026",
+        "expediente_autoridad": "1334/2025",
+        "estado_region": "Aguascalientes",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES",
+        "subautoridad": "Juzgado Primero Familiar del Estado",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Proporcionar en el término de tres días la información solicitada en vía de prueba, consistente en el estado de cuenta de enero de 2023 de la tarjeta de crédito con terminación 1634 a nombre de Juana María Bonilla Medina.",
+        "acciones_solicitadas": [
+            "Proporcionar el estado de cuenta de enero de 2023 de la tarjeta de crédito con terminación 1634"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JUANA MARIA BONILLA MEDINA",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "1634"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 10,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Proporcionar el estado de cuenta de enero de 2023 de la tarjeta de crédito con terminación 1634"
+        ],
+        "timestamp": "2026-10-16T17:26:53.033Z",
+        "region": "METROPOLITANA",
+        "plaza": "MEXICO,DISTRITO FEDERAL",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1OqlEiD9tJzT823KbuD2pL86cPLk9b6Jy",
+        "abogado_solicitante": "DAVID GARCIA GUZMAN",
+        "name_file": "CR4198_Info_1 - DAVID GARCIA GUZMAN.pdf",
+        "folio_sugo": "260366875TSJJUD"
+    },
+    {
+        "oficio_autoridad": "062/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "004/26-2027/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "Poder Judicial del Estado de Campeche",
+        "subautoridad": "Juzgado Mixto Civil-Familiar-Mercantil de Primera Instancia del Cuarto Distrito Judicial del Estado, Sede Calkiní, Campeche",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si ZULEIMI GUADALUPE COLLI KU, identificada con Clave Única de Población COKZ981222MCCLXI01, cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma, en el término de tres días hábiles contados a partir de la recepción del oficio, bajo apercibimiento de multa por 5,000.00 pesos.",
+        "acciones_solicitadas": [
+            "Informar si la persona cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ZULEIMI GUADALUPE COLLI KU",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la persona cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.034Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE CAMPECHE",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1Y39cr1M6k0qNqkilt5-bxNdLM-R0b5wM",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 004-26-2027-JMCALK-M-IV  OFICIO 062-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366877TSJJUD"
+    },
+    {
+        "oficio_autoridad": "055/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "011/26-2027/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "Poder Judicial del Estado de Campeche",
+        "subautoridad": "Juzgado Mixto Civil-Familiar-Mercantil de Primera Instancia del Cuarto Distrito Judicial del Estado, Sede Calkiní, Campeche",
+        "oficio_subautoridad": "055/26-2027/JMCALK-M-IV",
+        "expediente_subautoridad": "011/26-2027/JMCALK-M-IV",
+        "instrucciones_oficio": "Informar si MARÍA ARIZBE DE GUADALUPE URIBE AVILES cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma, en un plazo de tres días hábiles, bajo apercibimiento de multa por $5,000.00.",
+        "acciones_solicitadas": [
+            "Informar si la persona cuenta con cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARÍA ARIZBE DE GUADALUPE URIBE AVILES",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la persona cuenta con cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.034Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE CAMPECHE",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1ZtjWyP33yEjUFLSgp_l7ROIm4Avx_Q4s",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 010-26-2027-JMCALK-MIV  OFICIO 055-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366878TSJJUD"
+    },
+    {
+        "oficio_autoridad": "1612",
+        "expediente_autoridad": "101/2016",
+        "estado_region": "Zacatecas",
+        "autoridad_oficio": "Poder Judicial del Estado de Zacatecas",
+        "subautoridad": "Juzgado Segundo Civil del Distrito Judicial de Fresnillo, Zacatecas",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar en el término de tres días hábiles si existe cuenta a nombre de Aurora Alvarado Rodríguez, y en caso afirmativo, proporcionar el número de la misma y la clave interbancaria.",
+        "acciones_solicitadas": [
+            "Informar si existe cuenta a nombre de Aurora Alvarado Rodríguez",
+            "Proporcionar el número de cuenta y la clave interbancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Aurora Alvarado Rodríguez",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 1000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existe cuenta a nombre de Aurora Alvarado Rodríguez",
+            "Proporcionar el número de cuenta y la clave interbancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.034Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE ZACATECAS",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1R6qJNFj9AZyRIW_N-z1zSvnKZh8CZLkn",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "exp. 101-2016  oficio 1612 - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366879TSJJUD"
+    },
+    {
+        "oficio_autoridad": "7930/2026",
+        "expediente_autoridad": "559/2026",
+        "estado_region": "Puebla",
+        "autoridad_oficio": "SEGUNDO TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL SEXTO CIRCUITO",
+        "subautoridad": "",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "766/2026",
+        "instrucciones_oficio": "Notificar la admisión del recurso de revisión número 559/2026 interpuesto en el juicio de amparo 766/2026 para conocimiento y efectos legales.",
+        "acciones_solicitadas": [],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "informe juridico",
+        "evidencia_clasificacion": [
+            "Notificar la admisión del recurso de revisión número 559/2026 interpuesto en el juicio de amparo 766/2026 para conocimiento y efectos legales."
+        ],
+        "timestamp": "2026-10-16T17:26:53.035Z",
+        "region": "ORIENTE",
+        "plaza": "PUEBLA,PUEBLA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "2do TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL SEXTO CIRCUITO",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1FAvs9pH2OJ2iWPzTNLSMk1jSWLfNWmOR",
+        "abogado_solicitante": "JOAQUIN PARADA LEZAMA",
+        "name_file": "Escaneado_desde_un_multifuncional_Lexmark14-10-2026-135254 - JOAQUIN PARADA LEZAMA.pdf",
+        "folio_sugo": "260366880TSJJUD"
+    },
+    {
+        "oficio_autoridad": "073/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "003/22-2023/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "Poder Judicial del Estado de Campeche",
+        "subautoridad": "Juzgado Mixto Civil-Familiar-Mercantil de Primera Instancia del Cuarto Distrito Judicial del Estado, Sede Calkiní",
+        "oficio_subautoridad": "073/26-2027/JMCALK-M-IV",
+        "expediente_subautoridad": "003/22-2023/JMCALK-M-IV",
+        "instrucciones_oficio": "Informar si la persona indicada cuenta con cuentas bancarias, depósitos, inversiones o contratos, y en caso afirmativo proporcionar número de cuenta o contrato, tipo, fecha de apertura, estado de vigencia, saldo disponible y los tres últimos estados de cuenta.",
+        "acciones_solicitadas": [
+            "Informar si la persona cuenta con cuentas bancarias, depósitos, inversiones o contratos",
+            "Proporcionar número de cuenta o contrato, tipo de cuenta, fecha de apertura, estado de vigencia y saldo disponible",
+            "Remitir los tres últimos estados de cuenta"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "AMIRA ESCALANTE SANDOVAL",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la persona cuenta con cuentas bancarias, depósitos, inversiones o contratos",
+            "Proporcionar número de cuenta o contrato, tipo de cuenta, fecha de apertura, estado de vigencia y saldo disponible",
+            "Remitir los tres últimos estados de cuenta"
+        ],
+        "timestamp": "2026-10-16T17:26:53.035Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE CAMPECHE",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1tvquXRnZ2yFB8xm2re0_PfkpfRIKFfQK",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 003-22-202-JMCALK-M-IV  OFICIO 073-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366881TSJJUD"
+    },
+    {
+        "oficio_autoridad": "084/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "018/26-2027/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "Poder Judicial del Estado de Campeche",
+        "subautoridad": "Juzgado Mixto Civil-Familiar-Mercantil de Primera Instancia del Cuarto Distrito Judicial del Estado, Sede Calkiní, Campeche",
+        "oficio_subautoridad": "081/26-2027/JMCALK-M-IV",
+        "expediente_subautoridad": "018/26-2027/JMCALK-M-IV",
+        "instrucciones_oficio": "Informar si María Durán Rosado y/o María del Socorro Durán Rosado cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma, en el plazo de tres días hábiles.",
+        "acciones_solicitadas": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARÍA DURÁN ROSADO Y/O MARÍA DEL SOCORRO DURÁN ROSADO",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.035Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE CAMPECHE",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1vsXh4PTGYDVpA2hY1Kv_dfiv-qLKCkHR",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 018-26-2027-JMCALK-M-IV  OFICIO 084-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366882TSJJUD"
+    },
+    {
+        "oficio_autoridad": "046-26-2027-JMCALK-M-IV",
+        "expediente_autoridad": "010/26-2027/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "Juzgado Mixto Civil-Familiar-Mercantil de Primera Instancia del Cuarto Distrito Judicial del Estado",
+        "subautoridad": "Sede Calkiní, Campeche",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si Mixtli María Gómez Uribe cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma, considerando la Clave Única de Población GOUM951124MYNMRX08.",
+        "acciones_solicitadas": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MIXTLI MARÍA GÓMEZ URIBE",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.036Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "JDO MIXTO CIVIL-FAM-MERC DE 1A INST DEL 4to DTTO JUD EDO",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1AAURwD1lYcyG3kBrOVvSEHgwzyS755c2",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 010-26-2027-KMCALK-M-IV  OFICIO  046-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366884TSJJUD"
+    },
+    {
+        "oficio_autoridad": "090/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "019/26-2027/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "JUZGADO MIXTO CIVIL-FAMILIAR-MERCANTIL DE PRIMERA INSTANCIA DEL CUARTO DISTRITO JUDICIAL DEL ESTADO, SEDE CALKINÍ, CAMPECHE",
+        "subautoridad": "",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si María Durán Rosado y/o María del Socorro Durán Rosado cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma, considerando su Clave Única de Población DURS740917MCCRC00.",
+        "acciones_solicitadas": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARÍA DURÁN ROSADO Y/O MARÍA DEL SOCORRO DURÁN ROSADO",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.037Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "JDO MIXTO CIV-FAM-MERC 1A INST 4to DTTO JUD EDO SEDE CALKINI",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1fYSMtGQ2j6IHLx-jMZg_Zc7ju8ccnJ1E",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 019-26-2027-JMCALK-M-IV  OFICIO 090-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366885TSJJUD"
+    },
+    {
+        "oficio_autoridad": "102/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "021/26-2027/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "Juzgado Mixto Civil-Familiar-Mercantil de Primera Instancia del Cuarto Distrito Judicial del Estado, Sede Calkiní, Campeche",
+        "subautoridad": "",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si María Durán Rosado y/o María del Socorro Durán Rosado cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma, considerando la Clave Única de Población DURS740917MCCRC00.",
+        "acciones_solicitadas": [
+            "Informar si cuenta con cuentas bancarias a su nombre",
+            "Informar el monto de las cuentas bancarias"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARÍA DURÁN ROSADO Y/O MARÍA DEL SOCORRO DURÁN ROSADO",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si cuenta con cuentas bancarias a su nombre",
+            "Informar el monto de las cuentas bancarias"
+        ],
+        "timestamp": "2026-10-16T17:26:53.037Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "JDO MIXTO CIV-FAM-MERC 1A INST 4to DTTO JUD EDO SEDE CALKINI",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1UdWb7F0ZzMv7H0p6-wKtDZZeazUQW-w-",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "EXP. 021-26-2027-JMCALK-M-IV  OFICIO 102-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366888TSJJUD"
+    },
+    {
+        "oficio_autoridad": "1617",
+        "expediente_autoridad": "101/2016",
+        "estado_region": "Zacatecas",
+        "autoridad_oficio": "",
+        "subautoridad": "Juzgado Segundo Civil del Distrito Judicial de Fresnillo",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar en el término de tres días si existe cuenta a nombre de Aurora Alvarado Rodríguez, proporcionando el número de la misma y la clave interbancaria.",
+        "acciones_solicitadas": [
+            "Informar si existe cuenta a nombre de la persona indicada",
+            "Proporcionar el número de cuenta y la clave interbancaria en caso afirmativo"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Aurora Alvarado Rodríguez",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 1000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existe cuenta a nombre de la persona indicada",
+            "Proporcionar el número de cuenta y la clave interbancaria en caso afirmativo"
+        ],
+        "timestamp": "2026-10-16T17:26:53.037Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1hFkpGe-vDkozHbbuco56y_mJ61r4PglO",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "exp. 101-2016  oficio 1617 - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366891TSJJUD"
+    },
+    {
+        "oficio_autoridad": "109/26-2027/JMCALK-M-IV",
+        "expediente_autoridad": "097/25-2026/JMCALK-M-IV",
+        "estado_region": "Campeche",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE CAMPECHE",
+        "subautoridad": "JUZGADO MIXTO CIVIL-FAMILIAR-MERCANTIL DE PRIMERA INSTANCIA DEL CUARTO DISTRITO JUDICIAL DEL ESTADO, SEDE CALKINÍ, CAMPECHE",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si María Juana Chan Ku cuenta con alguna cuenta bancaria a su nombre y a cuánto asciende el monto de la misma, en el término de tres días hábiles, bajo apercibimiento de multa.",
+        "acciones_solicitadas": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MARÍA JUANA CHAN KU",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 5000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si cuenta con alguna cuenta bancaria a su nombre",
+            "Informar el monto de la cuenta bancaria"
+        ],
+        "timestamp": "2026-10-16T17:26:53.038Z",
+        "region": "SURESTE",
+        "plaza": "CAMPECHE,CAMPECHE",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE CAMPECHE",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1uCKzAaUNvpRKhWFjeaxE7eaZRZ2OZ_Yb",
+        "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE",
+        "name_file": "exp. 070-JMCALK-M-IV  OFICIO 109-26-2027-JMCALK-M-IV - ALEJANDRO PEREZ NAVARRETE.pdf",
+        "folio_sugo": "260366896TSJJUD"
+    },
+    {
+        "oficio_autoridad": "2593/2026",
+        "expediente_autoridad": "1495/2009",
+        "estado_region": "Sonora",
+        "autoridad_oficio": "PODER JUDICIAL ESTADO DE SONORA",
+        "subautoridad": "JUZGADO DE PRIMERA INSTANCIA DE LO FAMILIAR",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si se tiene o se tuvo registrada la cuenta bancaria 0145447437 a nombre de la empresa NUTRITIENTES MARINOS Y PECUARIOS S.A. DE C.V., indicar el saldo a la fecha y remitir copia certificada del estado de cuenta completo y detallado de los movimientos bancarios desde el 28 de septiembre de 2009 hasta la fecha.",
+        "acciones_solicitadas": [
+            "Informar si se tiene o se tuvo registrada la cuenta bancaria señalada",
+            "Informar el saldo de la cuenta bancaria",
+            "Remitir copia certificada del estado de cuenta completo y detallado de los movimientos bancarios a partir de la fecha indicada hasta la fecha"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "MORAL",
+                "nombre": "NUTRITIENTES MARINOS Y PECUARIOS S.A. DE C.V.",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "0145447437"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 2346.2,
+                "moneda": "MXN",
+                "cantidad_unidades": 20,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": 117.31
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si se tiene o se tuvo registrada la cuenta bancaria señalada",
+            "Informar el saldo de la cuenta bancaria",
+            "Remitir copia certificada del estado de cuenta completo y detallado de los movimientos bancarios a partir de la fecha indicada hasta la fecha"
+        ],
+        "timestamp": "2026-10-16T17:26:53.038Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL ESTADO DE SONORA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1uYEkG5yWRU6rC0AZ1WOb-PpMhT4LBN4D",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OFICIO 2593-2026 EXP 1495-2009 - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366901TSJJUD"
+    },
+    {
+        "oficio_autoridad": "22820/2026",
+        "expediente_autoridad": "457/2024-V",
+        "estado_region": "Sinaloa",
+        "autoridad_oficio": "Poder Judicial de la Federación",
+        "subautoridad": "Juzgado Cuarto de Distrito en el Estado de Sinaloa",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si en archivos o base de datos se tiene alguna cuenta bancaria aperturada a nombre de la persona demandada Hiram Pérez Amaya.",
+        "acciones_solicitadas": [
+            "Informar si se cuenta con cuentas bancarias aperturadas a nombre de la persona indicada"
+        ],
+        "plazo": {
+            "cantidad": null,
+            "unidad": "",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Hiram Pérez Amaya",
+                "rfc": "PEAH7907192V4",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 1000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si se cuenta con cuentas bancarias aperturadas a nombre de la persona indicada"
+        ],
+        "timestamp": "2026-10-16T17:26:53.038Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=10-kPSZAh_dFKDx6w0-t-pc0Yd-SNQTXZ",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OFICIO 22820-2026 EXP 457-2024-V Y - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366906TSJJUD"
+    },
+    {
+        "oficio_autoridad": "02930/2026",
+        "expediente_autoridad": "000121/2026",
+        "estado_region": "Nuevo León",
+        "autoridad_oficio": "Poder Judicial del Estado de Nuevo León",
+        "subautoridad": "Juzgado Cuarto de lo Civil",
+        "oficio_subautoridad": "02930/2026",
+        "expediente_subautoridad": "000121/2026",
+        "instrucciones_oficio": "Informar si la actora reconvencional es titular de la cuenta bancaria con terminación 9385 y tarjeta de débito 4152314035088445, enviar estados de cuenta certificados desde enero de 2023 a la fecha, informar los generales de la titular, informar el titular de la cuenta 0191728342 y sus generales, así como allegar comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385.",
+        "acciones_solicitadas": [
+            "Informar si la actora reconvencional es titular de la cuenta con terminación 9385 y tarjeta de débito 4152314035088445",
+            "Enviar estados de cuenta certificados de la cuenta con terminación 9385 desde enero de 2023 a la fecha",
+            "Informar los datos generales de la titular de la cuenta con terminación 9385",
+            "Informar quién es el titular de la cuenta número 0191728342 y sus datos generales",
+            "Allegar comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ANA GABRIELA ORTIZ ARZOLA",
+                "rfc": "OIAA870512KK1",
+                "cuentas_especificas": [
+                    "9385",
+                    "4152314035088445"
+                ]
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JOSÉ ALBERTO CRUZ GARZA",
+                "rfc": "CUGA7404088F3",
+                "cuentas_especificas": [
+                    "0191728342"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la actora reconvencional es titular de la cuenta con terminación 9385 y tarjeta de débito 4152314035088445",
+            "Enviar estados de cuenta certificados de la cuenta con terminación 9385 desde enero de 2023 a la fecha",
+            "Informar los datos generales de la titular de la cuenta con terminación 9385",
+            "Informar quién es el titular de la cuenta número 0191728342 y sus datos generales",
+            "Allegar comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385"
+        ],
+        "timestamp": "2026-10-16T17:26:53.039Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE NUEVO LEON",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1Dww1UPPuhGHL2dvfpzitIJ596Fk5H6Fs",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "Oficio 2930-2026. Exp 00121-2026 - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366911TSJJUD"
+    },
+    {
+        "oficio_autoridad": "02927/2026",
+        "expediente_autoridad": "000121/2026",
+        "estado_region": "Nuevo León",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE NUEVO LEON",
+        "subautoridad": "JUZGADO CUARTO DE LO CIVIL",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "000121/2026",
+        "instrucciones_oficio": "Informar si la actora reconvencional es titular de la cuenta 9385 y tarjeta de débito 4152314035088445, proporcionar sus estados de cuenta certificados desde enero de 2023 a la fecha, informar quién es el titular de la cuenta 0191728342, y allegar los comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385.",
+        "acciones_solicitadas": [
+            "Informar si la actora reconvencional es titular de la cuenta 9385 y tarjeta de débito 4152314035088445",
+            "Proporcionar estados de cuenta certificados de la cuenta 9385 desde enero de 2023 a la fecha",
+            "Informar el titular de la cuenta 0191728342",
+            "Allegar comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ANA GABRIELA ORTIZ ARZOLA",
+                "rfc": "OIAA870512KK1",
+                "cuentas_especificas": [
+                    "9385",
+                    "4152314035088445"
+                ]
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JOSÉ ALBERTO CRUZ GARZA",
+                "rfc": "CUGA7404088F3",
+                "cuentas_especificas": [
+                    "0191728342"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la actora reconvencional es titular de la cuenta 9385 y tarjeta de débito 4152314035088445",
+            "Proporcionar estados de cuenta certificados de la cuenta 9385 desde enero de 2023 a la fecha",
+            "Informar el titular de la cuenta 0191728342",
+            "Allegar comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385"
+        ],
+        "timestamp": "2026-10-16T17:26:53.039Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE NUEVO LEON",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1SokqvnUVLV1P8pBqAwm4rKHw1hHTDrtG",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OF 02927-2026 EXP 121-2026 - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366920TSJJUD"
+    },
+    {
+        "oficio_autoridad": "TLDJT/2413/2026",
+        "expediente_autoridad": "1418/2025",
+        "estado_region": "Coahuila de Zaragoza",
+        "autoridad_oficio": "Poder Judicial del Estado de Coahuila de Zaragoza",
+        "subautoridad": "Tribunal Laboral del Distrito Judicial de Torreón",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si Manuel Favela Hernández es titular de la cuenta 1524285672 y si recibió en dicha cuenta la cantidad de 4,543.29 pesos el día 09 de junio de 2025.",
+        "acciones_solicitadas": [
+            "Informar si el C. Manuel Favela Hernández es titular de la cuenta 1524285672",
+            "Informar si se recibió la cantidad de 4,543.29 pesos el día 09 de junio de 2025 en la cuenta 1524285672"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "MANUEL FAVELA HERNÁNDEZ",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "1524285672"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 200,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si el C. Manuel Favela Hernández es titular de la cuenta 1524285672",
+            "Informar si se recibió la cantidad de 4,543.29 pesos el día 09 de junio de 2025 en la cuenta 1524285672"
+        ],
+        "timestamp": "2026-10-16T17:26:53.040Z",
+        "region": "NORESTE",
+        "plaza": "TORREON,COAHUILA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1TQufSqkPuPxdehGX_kWygzMV7bEhtNi1",
+        "abogado_solicitante": "ERIKA ROMERO BECERRA",
+        "name_file": "OF. TLDJT-2413-2026 EXP. 1418-2025 - ERIKA ROMERO BECERRA.pdf",
+        "folio_sugo": "260366926TSJJUD"
+    },
+    {
+        "oficio_autoridad": "02928/2026",
+        "expediente_autoridad": "000121/2026",
+        "estado_region": "NUEVO LEON",
+        "autoridad_oficio": "PODER JUDICIAL DEL ESTADO DE NUEVO LEON",
+        "subautoridad": "JUZGADO CUARTO DE LO CIVIL",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si la actora reconvencional es titular de la cuenta bancaria 9385 y tarjeta de débito 4152314035088445, enviar estados de cuenta certificados desde enero de 2023 a la fecha, corroborar los datos generales de la titular de dicha cuenta, informar quién es el titular de la cuenta 0191728342 y sus datos generales, y allegar comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385.",
+        "acciones_solicitadas": [
+            "Informar si la actora reconvencional es titular de la cuenta 9385 y tarjeta de débito 4152314035088445",
+            "Enviar estados de cuenta certificados de la cuenta 9385 desde enero de 2023 a la fecha",
+            "Informar los datos generales de la titular de la cuenta 9385 y tarjeta 4152314035088445",
+            "Informar quién es el titular de la cuenta 0191728342 y sus datos generales",
+            "Allegar comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ANA GABRIELA ORTIZ ARZOLA",
+                "rfc": "OIAA870512KK1",
+                "cuentas_especificas": [
+                    "9385",
+                    "4152314035088445"
+                ]
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "JOSÉ ALBERTO CRUZ GARZA",
+                "rfc": "CUGA7404088F3",
+                "cuentas_especificas": [
+                    "0191728342"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si la actora reconvencional es titular de la cuenta 9385 y tarjeta de débito 4152314035088445",
+            "Enviar estados de cuenta certificados de la cuenta 9385 desde enero de 2023 a la fecha",
+            "Informar los datos generales de la titular de la cuenta 9385 y tarjeta 4152314035088445",
+            "Informar quién es el titular de la cuenta 0191728342 y sus datos generales",
+            "Allegar comprobantes certificados de las transferencias realizadas desde la cuenta 0191728342 a la cuenta 9385"
+        ],
+        "timestamp": "2026-10-16T17:26:53.040Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DEL ESTADO DE NUEVO LEON",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1SDoMuWhTFDWGsHRPvGQH3bGJIUvshJmC",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OF 02928-2026 EXP 000121-2026 - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366930TSJJUD"
+    },
+    {
+        "oficio_autoridad": "TLDJT/2421/2026",
+        "expediente_autoridad": "259/2024",
+        "estado_region": "Coahuila",
+        "autoridad_oficio": "Poder Judicial Coahuila de Zaragoza",
+        "subautoridad": "Tribunal Laboral del Distrito Judicial de Torreón",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "",
+        "instrucciones_oficio": "Informar si en los registros de la institución aparece cuenta alguna a nombre de la moral AF Construcciones de la Laguna S.A. de C.V. y, en caso afirmativo, informar el número o números de cuentas pertenecientes a la misma.",
+        "acciones_solicitadas": [
+            "Informar si existe cuenta a nombre de la moral",
+            "Informar el número o números de cuentas pertenecientes a la moral en caso afirmativo"
+        ],
+        "plazo": {
+            "cantidad": 3,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "MORAL",
+                "nombre": "AF CONSTRUCCIONES DE LA LAGUNA S.A DE C.V",
+                "rfc": "ACL190617759",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 11314,
+                "moneda": "MXN",
+                "cantidad_unidades": 100,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Informar si existe cuenta a nombre de la moral",
+            "Informar el número o números de cuentas pertenecientes a la moral en caso afirmativo"
+        ],
+        "timestamp": "2026-10-16T17:26:53.040Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL COAHUILA DE ZARAGOZA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1CMkB3Hwtsov9XwR6zx0KQXY2JJqRqILO",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OF. TLDJT-2421-2026 EXP. 259-2024 - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366939TSJJUD"
+    },
+    {
+        "oficio_autoridad": "610/2026-M2",
+        "expediente_autoridad": "Procedimiento Ordinario Laboral 275/2025-M2",
+        "estado_region": "Tamaulipas",
+        "autoridad_oficio": "Poder Judicial de la Federación",
+        "subautoridad": "Tercer Tribunal Laboral Federal de Asuntos Individuales en el Estado de Tamaulipas, con sede en Tampico",
+        "oficio_subautoridad": "610/2026-M2",
+        "expediente_subautoridad": "Procedimiento Ordinario Laboral 275/2025-M2",
+        "instrucciones_oficio": "Requerir a BBVA México, S.A. Institución de Banca Múltiple, Grupo Financiero BBVA México para que en el término de cinco días hábiles remita los estados de cuenta de la cuenta bancaria 15075573125 a nombre de Juan Obed Alejo Castillo, correspondientes al periodo del 13 de octubre de 2021 al 31 de mayo de 2025, e informe quién realizaba los depósitos en caso de que no se desprenda de los referidos estados.",
+        "acciones_solicitadas": [
+            "Exhibir los estados de cuenta de la cuenta bancaria especificada del periodo indicado",
+            "Informar quién realizaba los depósitos en caso de que no se desprenda de los referidos estados"
+        ],
+        "plazo": {
+            "cantidad": 5,
+            "unidad": "DIAS",
+            "tipo_dias": "HABILES",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "Juan Obed Alejo Castillo",
+                "rfc": "",
+                "cuentas_especificas": [
+                    "15075573125"
+                ]
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": null,
+                "moneda": "",
+                "cantidad_unidades": 50,
+                "tipo_unidad": "UMA",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Exhibir los estados de cuenta de la cuenta bancaria especificada del periodo indicado",
+            "Informar quién realizaba los depósitos en caso de que no se desprenda de los referidos estados"
+        ],
+        "timestamp": "2026-10-16T17:26:53.041Z",
+        "region": "NORESTE",
+        "plaza": "TAMPICO,TAMAULIPAS",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL DE LA FEDERACION",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=1dhs22hQUU4DUXCB3WCVjhO5c3ju5D_Ox",
+        "abogado_solicitante": "ERIKA ROMERO BECERRA",
+        "name_file": "OFICIO 610-2026-M2 PROCEDIMIENTO ORDINARIO LABORAL 275-2025-M2 TERCER TRIBUNAL LABORAL FEDERAL - ERIKA ROMERO BECERRA.pdf",
+        "folio_sugo": "260366944TSJJUD"
+    },
+    {
+        "oficio_autoridad": "2734/2026",
+        "expediente_autoridad": "511/2026",
+        "estado_region": "Coahuila",
+        "autoridad_oficio": "PODER JUDICIAL COAHUILA DE ZARAGOZA",
+        "subautoridad": "Juzgado Segundo de Primera Instancia en Materia Mercantil del Distrito Judicial de Torreón",
+        "oficio_subautoridad": "",
+        "expediente_subautoridad": "511/2026",
+        "instrucciones_oficio": "Rendir la información solicitada a la institución de crédito BBVA México sobre los adeudos, fechas e importes a cargo de Gabriel Estrada González y Anel Pérez Soto, en el término de cinco días.",
+        "acciones_solicitadas": [
+            "Rendir la información solicitada conforme a los registros contables respecto a los adeudos de los acreditados"
+        ],
+        "plazo": {
+            "cantidad": 5,
+            "unidad": "DIAS",
+            "tipo_dias": "",
+            "fecha_limite": ""
+        },
+        "importe_operacion": {
+            "monto": null,
+            "moneda": "",
+            "concepto": ""
+        },
+        "clientes_objetivo": [
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "GABRIEL ESTRADA GONZALEZ",
+                "rfc": "",
+                "cuentas_especificas": []
+            },
+            {
+                "tipo_persona": "FISICA",
+                "nombre": "ANEL PEREZ SOTO",
+                "rfc": "",
+                "cuentas_especificas": []
+            }
+        ],
+        "entregas_recursos": [],
+        "multas": [
+            {
+                "situacion": "APERCIBIMIENTO",
+                "monto_documento": 3000,
+                "moneda": "MXN",
+                "cantidad_unidades": null,
+                "tipo_unidad": "",
+                "valor_unitario_documento": null
+            }
+        ],
+        "arrestos": [],
+        "tipo_operacion": "insumos",
+        "evidencia_clasificacion": [
+            "Rendir la información solicitada conforme a los registros contables respecto a los adeudos de los acreditados"
+        ],
+        "timestamp": "2026-10-16T17:26:53.041Z",
+        "region": "NORTE",
+        "plaza": "CULIACAN,SINALOA",
+        "tipo_oficio": "JUDICIAL",
+        "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+        "subautoridad_abreviada": "PODER JUDICIAL COAHUILA DE ZARAGOZA",
+        "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+        "autoridad_especifica": "",
+        "origen_folio": "JURÍDICO REGIONAL",
+        "url_archivo": "https://drive.google.com/open?id=16yHfq94veXLd67W2gJQFhsbYNVP43ZR3",
+        "abogado_solicitante": "ROSA YOLANDA VIZCARRA CAMPOS",
+        "name_file": "OF. 2734-2026 EXP. 511-2026 - ROSA YOLANDA VIZCARRA CAMPOS.pdf",
+        "folio_sugo": "260366951TSJJUD"
+    }
+]

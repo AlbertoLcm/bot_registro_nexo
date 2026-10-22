@@ -1,0 +1,25 @@
+[
+  {
+    "nombre_archivo": "",
+    "oficio_autoridad": "",
+    "expediente_autoridad": "",
+    "estado_region": "",
+    "autoridad": "",
+    "subautoridad": "",
+    "autoridad_especifica": "",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "",
+    "fecha_recepcion": "",
+    "instrucciones_oficio": "",
+    "tipo_operacion": "",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ]
+  }
+]

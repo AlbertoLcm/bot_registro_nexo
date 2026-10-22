@@ -1,0 +1,529 @@
+[
+  {
+    "oficio_autoridad": "20259",
+    "expediente_autoridad": "1066/2020 JEI",
+    "estado_region": "Sonora",
+    "autoridad_oficio": "Secretaría del Trabajo",
+    "subautoridad": "Junta Especial No. 1 de la Local de Conciliación y Arbitraje del Estado de Sonora",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si existe cuenta a nombre de Noé Munguía Gámez y Evangelina Gámez Fimbres, y de ser así, proporcionar los números de cuenta y saldos correspondientes.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "NOE MUNGUIA GAMEZ",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "EVANGELINA GAMEZ FIMBRES",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "region": "NORTE",
+    "plaza": "CHIHUAHUA,CHIHUAHUA",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "1066-2020 JEI - ISAID VARGAS CHAIREZ.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1BLKYE8Xtjqrh8D7eAz9Epbj6MUjdvviz/view?usp=drive_web",
+    "abogado_solicitante": "ISAID VARGAS CHAIREZ"
+  },
+  
+ 
+  
+ 
+  
+  
+  {
+    "oficio_autoridad": "2734/2026",
+    "expediente_autoridad": "264/2026",
+    "estado_region": "",
+    "autoridad_oficio": "Juzgado Décimo Cuarto en Materia Mercantil",
+    "subautoridad": "Juzgado Décimo Cuarto en Materia Mercantil",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "5",
+    "instrucciones_oficio": "Informar si en las cuentas descritas (0158777691 y 0110946109 pertenecientes a BBVA, y 4037749660 de HSBC) se realizaron o recibieron transferencias electrónicas en las fechas señaladas de los años 2021 y 2022, detallando fechas, montos, números de referencia, claves de rastreo y si las operaciones fueron procesadas y aplicadas exitosamente, proporcionando la documentación e información solicitada en un plazo no mayor a 5 días hábiles.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "FARMACOS DINSA, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
+        "rfc": "",
+        "cuentas_especificas": ["0158777691", "0110946109", "4037749660"]
+      }
+    ],
+    "region": "BAJIO",
+    "plaza": "JALISCO",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "2734-2026 - YOLIMA BERENICE REAL ARTEAGA.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1mCxYBMz22RRfObB8YUqv-PI2Xa90QShm/view?usp=drive_web",
+    "abogado_solicitante": "YOLIMA BERENICE REAL ARTEAGA,"
+  },
+  
+  {
+    "oficio_autoridad": "20239",
+    "expediente_autoridad": "1004/22 JEI",
+    "estado_region": "Sonora",
+    "autoridad_oficio": "Secretaría del Trabajo del Estado de Sonora",
+    "subautoridad": "Junta Especial No. 1 de la Local de Conciliación y Arbitraje del Estado de Sonora",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar a la autoridad si existe cuenta a nombre del demandado GESTION Y DESARROLLOS EL RECODO SA DE CV y, de ser así, proporcionar los números de cuenta y saldo en las mismas en un término improrrogable de tres días a partir de la notificación del oficio.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "GESTION Y DESARROLLOS EL RECODO SA DE CV",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "region": "NORTE",
+    "plaza": "CHIHUAHUA,CHIHUAHUA",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "1004-2022 JEI - ISAID VARGAS CHAIREZ.pdf",
+    "url_archivo": "https://drive.google.com/file/d/19tn4X1H4LyvFlcz7-y-WYm2IVlB2NnHL/view?usp=drive_web",
+    "abogado_solicitante": "ISAID VARGAS CHAIREZ"
+  },
+  {
+    "oficio_autoridad": "20208",
+    "expediente_autoridad": "1409/2020 JEI",
+    "estado_region": "Sonora",
+    "autoridad_oficio": "Secretaría del Trabajo del Gobierno del Estado de Sonora",
+    "subautoridad": "Junta Especial No. 1 de la Local de Conciliación y Arbitraje del Estado de Sonora",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si existen cuentas a nombre de Pedro Barraza Garibaldi y Ramón Sesma Coronado y, en su caso, proporcionar los números de cuenta y sus saldos.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "PEDRO BARRAZA GARIBALDI",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "RAMON SESMA CORONADO",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "region": "NORESTE",
+    "plaza": "DURANGO,DURANGO",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "FOLIO 20208 EXP. 1409-2020 JEI JLCyA No. 01 HERMOSILLO SONORA =KARLA= Información - KARLA CRISTINA DELGADO LOPEZ.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1bmUxkoK86TZXhV1vDRnFuJvvZqXj6F6L/view?usp=drive_web",
+    "abogado_solicitante": "KARLA CRISTINA DELGADO LOPEZ"
+  },
+  {
+    "oficio_autoridad": "20168",
+    "expediente_autoridad": "3484/18 JEI",
+    "estado_region": "Sonora",
+    "autoridad_oficio": "Secretaría del Trabajo Gobierno de Sonora",
+    "subautoridad": "Junta Especial No. 1 de la Local de Conciliación y Arbitraje del Estado de Sonora",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si existe cuenta a nombre de los demandados Hotel San Alberto SA de CV y Compañía Hotelera SA de CV, y de ser así, proporcionar los números de cuenta y saldos correspondientes dentro de un término improrrogable de tres días.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "HOTEL SAN ALBERTO SA DE CV",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "COMPAÑÍA HOTELERA SA DE CV",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "region": "NORESTE",
+    "plaza": "DURANGO,DURANGO",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "FOLIO 20168 EXP. 3484-18 JEI JLCyA No. 01 HERMOSILLO SONORA =KARLA= Info - KARLA CRISTINA DELGADO LOPEZ.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1699fRrY8dRUTLCeSHaDybSWPBY-dpEzo/view?usp=drive_web",
+    "abogado_solicitante": "KARLA CRISTINA DELGADO LOPEZ"
+  },
+  {
+    "oficio_autoridad": "2960",
+    "expediente_autoridad": "0063/2026",
+    "estado_region": "Aguascalientes",
+    "autoridad_oficio": "Poder Judicial del Estado de Aguascalientes",
+    "subautoridad": "Juzgado Quinto Mercantil Especializado en Oralidad del Estado de Aguascalientes",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "",
+    "instrucciones_oficio": "Rendir informe respecto a quién aparece como titular de la cuenta bancaria 012320001018574282, e informar si del mes de junio del año 2025 a la fecha se han realizado depósitos a esa cuenta provenientes de la diversa número 0000086482161462 de Santander o depósitos de la cuenta 072010011806621140 de Banorte, indicando fechas y montos en caso afirmativo, a más tardar un día antes de la audiencia de juicio a celebrarse a las 12:00 horas del 6 de octubre de 2026.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "",
+        "rfc": "",
+        "cuentas_especificas": ["012320001018574282"]
+      }
+    ],
+    "region": "METROPOLITANA",
+    "plaza": "MEXICO,DISTRITO FEDERAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "CR4199_Info_1 (36) - DAVID GARCIA GUZMAN.pdf",
+    "url_archivo": "https://drive.google.com/file/d/11dcSOODuGE-TH531I90M8aL9hnn1nEF_/view?usp=drive_web",
+    "abogado_solicitante": "DAVID GARCIA GUZMAN"
+  },
+  {
+    "oficio_autoridad": "3262/2026",
+    "expediente_autoridad": "2013/2023",
+    "estado_region": "Jalisco",
+    "autoridad_oficio": "Consejo de la Judicatura Poder Judicial del Estado de Jalisco",
+    "subautoridad": "Juzgado Primero Especializado de lo Mercantil del Primer Partido Judicial",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "",
+    "instrucciones_oficio": "Informar al Juzgado si en la cuenta 0452080443 a nombre de ICAZA INGENIERIA CIVIL Y ARQUITECTURA DE ZACATECAS, SOCIEDAD ANONIMA DE CAPITAL VARIABLE, con RFC IIC990113112, se recibieron los depósitos del 06 de octubre de 2015 por $117,544.00 M.N. (número de movimiento 000014611) y del 07 de octubre de 2015 por $92,500.00 M.N. (número de movimiento 000014619).",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "ICAZA INGENIERIA CIVIL Y ARQUITECTURA DE ZACATECAS, S.A. DE C.V.",
+        "rfc": "IIC990113112",
+        "cuentas_especificas": ["0452080443"]
+      }
+    ],
+    "region": "BAJIO",
+    "plaza": "JALISCO",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "3262.2026 - YOLIMA BERENICE REAL ARTEAGA.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1oweFmNAbZz3bfs5MzH0Bq_4-1mxq-gEy/view?usp=drive_web",
+    "abogado_solicitante": "YOLIMA BERENICE REAL ARTEAGA,"
+  },
+  
+  {
+    "oficio_autoridad": "5359/2026",
+    "expediente_autoridad": "642/2025/XI",
+    "estado_region": "Veracruz",
+    "autoridad_oficio": "Poder Judicial del Estado de Veracruz",
+    "subautoridad": "Juzgado Primero de Primera Instancia Civil",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar en el término de tres días en qué consisten los movimientos señalados en los estados de cuenta a nombre de JOSE ENRIQUE CESAR SANCHEZ ALDAMA con la descripción VENTA DE FONDOS DE INVERSION BBVALIQ OPERADO EN CANAL MBAN, la cantidad total que tenía en esa cuenta de inversión, si en su base de datos existen más cuentas bancarias a su nombre, si en el contrato, seguro o inversiones tenía designado algún beneficiario, e informar si se ha entregado algún dinero u otro bien a alguna persona respecto de sus bienes.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "JOSE ENRIQUE CESAR SANCHEZ ALDAMA",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "region": "ORIENTE",
+    "plaza": "COATZACOALCOS,VERACRUZ",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "5359-2026  GER I - MARCOS GERARDO VILLANUEVA CETINA.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1jJIiVmVAtYbw-lEjYIdB09rfbLdg0ohS/view?usp=drive_web",
+    "abogado_solicitante": "MARCOS GERARDO VILLANUEVA CETINA"
+  },
+  
+  {
+    "oficio_autoridad": "458/2/2026",
+    "expediente_autoridad": "16/2026-II",
+    "estado_region": "Guerrero",
+    "autoridad_oficio": "Poder Judicial del Estado de Guerrero",
+    "subautoridad": "Juzgado Quinto de Primera Instancia del Ramo Civil del Distrito Judicial de Tabares",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "",
+    "instrucciones_oficio": "Confirmar a BBVA México la recepción de su informe contenido en el oficio 260288531PJFASE de fecha 1 de septiembre de 2026, suscrito por su representante legal, en relación al juicio ejecutivo mercantil oral promovido por Banco Santander México en contra de Juan Manuel Contreras Diaz y Adriana Contreras Quezada.",
+    "tipo_operacion": "informe",
+    "clientes_objetivo": [],
+    "region": "METROPOLITANA",
+    "plaza": "ACAPULCO, GUERRERO",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "EXP. 16-2026-II  OFICIO 458-2-2026 - ALEJANDRO PEREZ NAVARRETE.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1OTr0E28p_YVN9sVDdI0dPyqejLHHJ-2Y/view?usp=drive_web",
+    "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE"
+  },
+  {
+    "oficio_autoridad": "5772",
+    "expediente_autoridad": "0218/2026",
+    "estado_region": "Aguascalientes",
+    "autoridad_oficio": "Poder Judicial del Estado de Aguascalientes",
+    "subautoridad": "Juzgado Segundo Mercantil",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si en la cuenta bancaria número CIE 1612247 CLABE 012914002016122478 desde el día 16 de febrero de 2022 se ha recibido efectivo respecto del crédito automotriz con número de contrato 336005700064, e indicar el monto total recibido hasta el día en que se reciba el presente oficio.",
+    "tipo_operacion": "informe",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "",
+        "rfc": "",
+        "cuentas_especificas": ["1612247"]
+      }
+    ],
+    "region": "METROPOLITANA",
+    "plaza": "MEXICO,DISTRITO FEDERAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "CR3936_Info_1 (5) - DAVID GARCIA GUZMAN.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1D0e57cSlYABIfRtsC01Ub8CZXE1jbQLS/view?usp=drive_web",
+    "abogado_solicitante": "DAVID GARCIA GUZMAN"
+  },
+  
+  
+
+  
+  
+  {
+    "oficio_autoridad": "4769",
+    "expediente_autoridad": "0276/2020",
+    "estado_region": "Aguascalientes",
+    "autoridad_oficio": "Poder Judicial del Estado de Aguascalientes",
+    "subautoridad": "Juzgado 2° Familiar",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si Tania del Rocío Martínez Rodríguez es cuentahabiente de la institución bancaria, indicando la naturaleza y número asignado a su cuenta, números de tarjetas y/o cuentas expedidas a su favor, si existen cuentas y/o tarjetas con terminación 4230 o 9204, fecha y cuantías de apertura, estado actual de dichas cuentas y enviar los estados de cuenta de los últimos seis años.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "TANIA DEL ROCIO MARTINEZ RODRIGUEZ",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "region": "METROPOLITANA",
+    "plaza": "MEXICO,DISTRITO FEDERAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "EXP 0276-2020 JUZGADO SEGUNDO FAMILAIR - DAVID GARCIA GUZMAN.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1k3g1jG8LeXbTq9tHlMnf-4AnyfD900MS/view?usp=drive_web",
+    "abogado_solicitante": "DAVID GARCIA GUZMAN"
+  },
+  {
+    "oficio_autoridad": "2892",
+    "expediente_autoridad": "0333/2026",
+    "estado_region": "Aguascalientes",
+    "autoridad_oficio": "Poder Judicial del Estado de Aguascalientes",
+    "subautoridad": "Juzgado Quinto Mercantil Especializado en Oralidad del Estado de Aguascalientes",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "20",
+    "instrucciones_oficio": "Informar al Juzgado, en un término no superior a veinte días naturales, si cuenta en sus archivos con un registro oficial del domicilio actual y/o paradero de JESÚS MANUEL BUGARÍN CHIN (CURP: BUCJ661016HASGHS05).",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "JESÚS MANUEL BUGARÍN CHIN",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "region": "METROPOLITANA",
+    "plaza": "MEXICO,DISTRITO FEDERAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "EXP 0333-2026 JUZGADO QUINTO MERCANTIL - DAVID GARCIA GUZMAN.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1JShoE1AuJzXPZiAQoNtlXMOWQJCgSMA7/view?usp=drive_web",
+    "abogado_solicitante": "DAVID GARCIA GUZMAN"
+  },
+  {
+    "oficio_autoridad": "",
+    "expediente_autoridad": "0826/2026",
+    "estado_region": "Aguascalientes",
+    "autoridad_oficio": "Poder Judicial del Estado de Aguascalientes",
+    "subautoridad": "Juzgado Cuarto de lo Familiar del Primer Partido Judicial del Estado",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si se encuentran registradas las cuentas número 1551920581, 2053586707, 2320263729 y 2952312166 a nombre de Pedro Raúl Peña Reding, con CURP PERP600929HJCXDD00; y en caso afirmativo, informar el estado financiero actual de dichas cuentas y los últimos movimientos bancarios realizados en los últimos dos años, remitiendo copia fotostática certificada de las constancias respectivas en el término de tres días.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "Pedro Raúl Peña Reding",
+        "rfc": "",
+        "cuentas_especificas": [
+          "1551920581",
+          "2053586707",
+          "2320263729",
+          "2952312166"
+        ]
+      }
+    ],
+    "region": "METROPOLITANA",
+    "plaza": "MEXICO,DISTRITO FEDERAL",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "EXP 0826-2026 JUZGADO CUARTO FAMILIAR - DAVID GARCIA GUZMAN.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1b6q7hcWMCtjmrWhzheayCjRLK-NcY6Ct/view?usp=drive_web",
+    "abogado_solicitante": "DAVID GARCIA GUZMAN"
+  },
+  
+  
+  {
+    "oficio_autoridad": "",
+    "expediente_autoridad": "1411/2015",
+    "estado_region": "Veracruz",
+    "autoridad_oficio": "Junta Federal de Conciliación y Arbitraje",
+    "subautoridad": "Junta Especial Número 38",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "5",
+    "instrucciones_oficio": "Poner a disposición del Presidente de la Junta Especial Número 38, dentro del término de 5 días hábiles, un título de crédito a nombre de Ricardo Gudiño Rocha por la cantidad de $75,509,057.10 M.N., respecto de la cantidad embargada sobre la cuenta número 0196114431 a nombre de la demandada Petróleos Mexicanos.",
+    "tipo_operacion": "aseguramientos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "MORAL",
+        "nombre": "PETRÓLEOS MEXICANOS",
+        "rfc": "",
+        "cuentas_especificas": ["0196114431"]
+      }
+    ],
+    "region": "ORIENTE",
+    "plaza": "COATZACOALCOS,VERACRUZ",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "OF S-N EXP.- 1411-2015  T 0550 - MARCOS GERARDO VILLANUEVA CETINA.PDF",
+    "url_archivo": "https://drive.google.com/file/d/18hSeCJVDcqocgFsuv-yEkpiNQTp1qbqG/view?usp=drive_web",
+    "abogado_solicitante": "MARCOS GERARDO VILLANUEVA CETINA"
+  },
+
+
+  {
+    "oficio_autoridad": "3337",
+    "expediente_autoridad": "100/2026-IV",
+    "estado_region": "Guerrero",
+    "autoridad_oficio": "Poder Judicial del Estado de Guerrero",
+    "subautoridad": "Juzgado Primero de Primera Instancia del Ramo Familiar del Distrito Judicial de Hidalgo",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "",
+    "instrucciones_oficio": "Informar la existencia de la cuenta bancaria número 4152314223770762, si se encuentra a nombre de Laura Beatriz Miranda Santana, y remitir copia certificada de los estados de cuenta respecto al año 2026.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "Laura Beatriz Miranda Santana",
+        "rfc": "",
+        "cuentas_especificas": ["4152314223770762"]
+      }
+    ],
+    "region": "METROPOLITANA",
+    "plaza": "ACAPULCO, GUERRERO",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "EXP. 100-2026-IV  OFICIO 3337 - ALEJANDRO PEREZ NAVARRETE.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1I-ce7u1zQFwDuv2mj-0tOW_5EDpF9ifg/view?usp=drive_web",
+    "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE"
+  },
+  {
+    "oficio_autoridad": "2987/2026",
+    "expediente_autoridad": "718/2025",
+    "estado_region": "Hidalgo",
+    "autoridad_oficio": "Poder Judicial del Estado de Hidalgo",
+    "subautoridad": "Juzgado Cuarto Civil y Familiar del Distrito Judicial de Tulancingo, Hidalgo",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Remitir a la autoridad los tres últimos estados de cuenta a nombre de BRENDA ANGÉLICA CABELLO RAZO, titular de la cuenta 1579329636.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "BRENDA ANGÉLICA CABELLO RAZO",
+        "rfc": "",
+        "cuentas_especificas": ["1579329636"]
+      }
+    ],
+    "region": "METROPOLITANA",
+    "plaza": "PACHUCA,HIDALGO",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "OFICIO 2987-2026 - OSVALDO CASTAÑEDA VALLEJO.pdf",
+    "url_archivo": "https://drive.google.com/file/d/17p1OeDYxhfnKpruGASfOAE8OPVAudCFC/view?usp=drive_web",
+    "abogado_solicitante": "OSVALDO CASTAÑEDA VALLEJO"
+  },
+  {
+    "oficio_autoridad": "3452",
+    "expediente_autoridad": "172/2026-11",
+    "estado_region": "Guerrero",
+    "autoridad_oficio": "Poder Judicial del Estado Libre y Soberano de Guerrero",
+    "subautoridad": "Juzgado Primero de Primera Instancia en Materia Familiar del Distrito Judicial de Hidalgo",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "instrucciones_oficio": "Informar si dentro de sus archivos existen cuentas bancarias a nombre de Adalberto Nava Reyna con CURP NAPA300423HGRVYDOO y fecha de nacimiento 23 de abril de 1930; en caso afirmativo, proporcionar la cuantía, estado actual, informes a detalle y estados de cuenta o informes financieros de los siete años anteriores a la fecha de la solicitud.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "ADALBERTO NAVA REYNA",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ],
+    "region": "METROPOLITANA",
+    "plaza": "ACAPULCO, GUERRERO",
+    "tipo_oficio": "JUDICIAL",
+    "empresa": "BBVA BANCOMER, S.A. INSTITUCION DE BANCA M",
+    "autoridad": "TRIBUNAL SUPERIOR DE JUSTICIA",
+    "origen_folio": "JURÍDICO REGIONAL",
+    "nombre_archivo": "EXP. 172-2026-II   OFICIO 3452 - ALEJANDRO PEREZ NAVARRETE_1.pdf",
+    "url_archivo": "https://drive.google.com/file/d/1izaovTXoFSSY7RTpL5UUnoAGr0dNa-dz/view?usp=drive_web",
+    "abogado_solicitante": "ALEJANDRO PEREZ NAVARRETE"
+  }
+]

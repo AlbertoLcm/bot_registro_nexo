@@ -1,0 +1,89 @@
+[
+  {
+    "nombre_archivo": "oficio_19931_5.pdf",
+    "oficio_autoridad": "19931_5",
+    "expediente_autoridad": "1053/18 JEI",
+    "estado_region": "Hermosillo",
+    "autoridad": "Secretaría del Trabajo Gobierno de Sonora",
+    "subautoridad": "Junta Especial No.1 de la Local de Conciliación y Arbitraje del Estado de Sonora",
+    "autoridad_especifica": "",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "fecha_recepcion": "01/01/2026",
+    "instrucciones_oficio": "Informar si existe cuenta a nombre de Norma Elena Valenzuela Gaxiola, Rocio Durazo Ochoa, Fausto Rene Durazo Avila, y de ser así informen los números de cuenta y saldo en las mismas.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "NORMA ELENA VALENZUELA GAXIOLA",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "ROCIO DURAZO OCHOA",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "FAUSTO RENE DURAZO AVILA",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ]
+  },
+  {
+    "nombre_archivo": "oficio_19920.pdf",
+    "oficio_autoridad": "19920",
+    "expediente_autoridad": "3451/19 JEI_1",
+    "estado_region": "Hermosillo",
+    "autoridad": "Secretaría del Trabajo del Estado de Sonora",
+    "subautoridad": "Junta Especial No.1 de la Local de Conciliación y Arbitraje del Estado de Sonora",
+    "autoridad_especifica": "",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "fecha_recepcion": "01/01/2026",
+    "instrucciones_oficio": "Informar si existe cuenta a nombre del demandado Christian Francisco Dessens Leon y, de ser así, proporcionar los números de cuenta y saldo de las mismas.",
+    "tipo_operacion": "insumos",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "CHRISTIAN FRANCISCO DESSENS LEON",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ]
+  },
+  {
+    "nombre_archivo": "oficio_139.pdf",
+    "oficio_autoridad": "139",
+    "expediente_autoridad": "751/2017/II_1",
+    "estado_region": "Cosamaloapan",
+    "autoridad": "Poder Judicial del Estado de Veracruz",
+    "subautoridad": "Juzgado Primero de Primera Instancia Civil",
+    "autoridad_especifica": "",
+    "oficio_subautoridad": "",
+    "expediente_subautoridad": "",
+    "plazo_dias": "3",
+    "fecha_recepcion": "01/01/2026",
+    "instrucciones_oficio": "Rendir informe sobre si se encuentran cuentas registradas a nombre de Aurelio Severiano Alfaro e Iracema de Jesus Marquez Lopez, indicando el saldo de cada una de ellas.",
+    "tipo_operacion": "informe",
+    "clientes_objetivo": [
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "AURELIO SEVERIANO ALFARO",
+        "rfc": "",
+        "cuentas_especificas": []
+      },
+      {
+        "tipo_persona": "FISICA",
+        "nombre": "IRACEMA DE JESUS MARQUEZ LOPEZ",
+        "rfc": "",
+        "cuentas_especificas": []
+      }
+    ]
+  }
+]
