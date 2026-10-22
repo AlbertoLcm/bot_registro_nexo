@@ -60,7 +60,12 @@ ARGUMENTOS_CHROME = [
 IS_FROZEN = getattr(sys, 'frozen', False)  # Detecta si es ejecutable Exe o Desarrollo
 
 if IS_FROZEN:
-    BASE_DIR = Path(sys.executable).parent
+    ejecutable = Path(sys.executable).resolve()
+    # Si está dentro de un paquete .app de macOS (.../NexoSUGO.app/Contents/MacOS/NexoSUGO)
+    if sys.platform == "darwin" and ".app/Contents/MacOS" in str(ejecutable):
+        BASE_DIR = ejecutable.parents[3]  # Sube hasta la carpeta donde está el .app
+    else:
+        BASE_DIR = ejecutable.parent
     INTERNAL_DIR = Path(sys._MEIPASS)
 else:
     BASE_DIR = Path(__file__).resolve().parent

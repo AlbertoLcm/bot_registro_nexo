@@ -29,15 +29,16 @@ jobs:
 
     - name: Compilar Script con PyInstaller (Windows)
       run: |
-        # Separador ; para Windows
-        pyinstaller --onefile --noconsole --collect-all playwright --collect-all customtkinter --collect-data tkinter main.py
+        pyinstaller --noconfirm --onefile --noconsole --name "NexoSUGO" --collect-all playwright --collect-all customtkinter --hidden-import openpyxl main.py
 
     - name: Preparar carpeta de entrega para el usuario
+      shell: pwsh
       run: |
         New-Item -ItemType Directory -Force -Path entregable
-        Move-Item -Path dist\main.exe -Destination entregable\
-        $datos = @{ user = ""; password = "" }
-        $datos | ConvertTo-Json | Out-File -FilePath "entregable\usuario_sugo.json" -Encoding utf8
+        Move-Item -Path dist\NexoSUGO.exe -Destination entregable\
+        # En PowerShell Core (pwsh), utf8NoBOM evita errores en json.load() de Python
+        $datos = @{ user = ""; password = "" } | ConvertTo-Json
+        [System.IO.File]::WriteAllLines("$PWD\entregable\usuario_sugo.json", $datos)
 
     - name: Guardar el entregable como Artefacto (Windows)
       uses: actions/upload-artifact@v4
@@ -68,21 +69,20 @@ jobs:
 
     - name: Compilar Script con PyInstaller (Mac)
       run: |
-        # IMPORTANTE: En Mac se usa ":" en lugar de ";" para separar el origen/destino en add-data
-        # Se usa --windowed en lugar de --onefile para generar un paquete .app correcto
-        pyinstaller --windowed --noconsole --collect-all playwright --collect-all customtkinter --collect-data tkinter main.py
+        pyinstaller --noconfirm --windowed --noconsole --name "NexoSUGO" --collect-all playwright --collect-all customtkinter --hidden-import openpyxl main.py
 
     - name: Preparar carpeta de entrega para el usuario (Bash)
       run: |
-        # En Mac usamos comandos de Bash
-        mkdir entregable
-        # PyInstaller genera un paquete "main.app" (que técnicamente es una carpeta)
-        mv dist/main.app entregable/
-        # Crear el JSON
+        mkdir -p entregable
+        mv dist/NexoSUGO.app entregable/
         echo '{"user": "", "password": ""}' > entregable/usuario_sugo.json
+        # Comprimir dentro de entregable para que Mac conserve los permisos de ejecución (chmod +x) del .app
+        cd entregable
+        zip -r -y NexoSUGO-Mac.zip NexoSUGO.app usuario_sugo.json
+        rm -rf NexoSUGO.app usuario_sugo.json
 
     - name: Guardar el entregable como Artefacto (Mac)
       uses: actions/upload-artifact@v4
       with:
         name: bot-registro-nexo-mac
-        path: entregable/
+        path: entregable/NexoSUGO-Mac.zip
