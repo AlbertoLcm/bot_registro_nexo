@@ -1,0 +1,88 @@
+name: Compilar Python + Playwright a EXE (Win) y APP (Mac)
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  # ==========================================
+  # JOB 1: COMPILACIÓN PARA WINDOWS (.exe)
+  # ==========================================
+  build-windows:
+    runs-on: windows-latest
+    steps:
+    - name: Descargar el código del repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Instalar dependencias y PyInstaller
+      run: |
+        python -m pip install --upgrade pip
+        pip install pyinstaller
+        pip install -r requirements.txt
+
+    - name: Compilar Script con PyInstaller (Windows)
+      run: |
+        # Separador ; para Windows
+        pyinstaller --onefile --noconsole --collect-all playwright --collect-all customtkinter --collect-data tkinter main.py
+
+    - name: Preparar carpeta de entrega para el usuario
+      run: |
+        New-Item -ItemType Directory -Force -Path entregable
+        Move-Item -Path dist\main.exe -Destination entregable\
+        $datos = @{ user = ""; password = "" }
+        $datos | ConvertTo-Json | Out-File -FilePath "entregable\usuario_sugo.json" -Encoding utf8
+
+    - name: Guardar el entregable como Artefacto (Windows)
+      uses: actions/upload-artifact@v4
+      with:
+        name: bot-registro-nexo-windows
+        path: entregable/
+
+  # ==========================================
+  # JOB 2: COMPILACIÓN PARA MAC (.app)
+  # ==========================================
+  build-macos:
+    runs-on: macos-latest
+    steps:
+    - name: Descargar el código del repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Instalar dependencias y PyInstaller
+      run: |
+        python -m pip install --upgrade pip
+        pip install pyinstaller
+        pip install -r requirements.txt
+
+    - name: Compilar Script con PyInstaller (Mac)
+      run: |
+        # IMPORTANTE: En Mac se usa ":" en lugar de ";" para separar el origen/destino en add-data
+        # Se usa --windowed en lugar de --onefile para generar un paquete .app correcto
+        pyinstaller --windowed --noconsole --collect-all playwright --collect-all customtkinter --collect-data tkinter main.py
+
+    - name: Preparar carpeta de entrega para el usuario (Bash)
+      run: |
+        # En Mac usamos comandos de Bash
+        mkdir entregable
+        # PyInstaller genera un paquete "main.app" (que técnicamente es una carpeta)
+        mv dist/main.app entregable/
+        # Crear el JSON
+        echo '{"user": "", "password": ""}' > entregable/usuario_sugo.json
+
+    - name: Guardar el entregable como Artefacto (Mac)
+      uses: actions/upload-artifact@v4
+      with:
+        name: bot-registro-nexo-mac
+        path: entregable/
