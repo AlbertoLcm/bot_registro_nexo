@@ -1,88 +1,125 @@
-name: Compilar Python + Playwright a EXE (Win) y APP (Mac)
+name: Compilar NexoSUGO para Windows y macOS
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
-  # ==========================================
-  # JOB 1: COMPILACIÓN PARA WINDOWS (.exe)
-  # ==========================================
   build-windows:
+    name: Windows x64 (.exe)
     runs-on: windows-latest
+    timeout-minutes: 45
+
     steps:
-    - name: Descargar el código del repositorio
-      uses: actions/checkout@v4
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
 
-    - name: Configurar Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-        cache: 'pip'
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
 
-    - name: Instalar dependencias y PyInstaller
-      run: |
-        python -m pip install --upgrade pip
-        pip install pyinstaller
-        pip install -r requirements.txt
+      - name: Instalar dependencias
+        shell: pwsh
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m pip install pyinstaller
+          # No se ejecuta "playwright install": main.py usa channel="chrome".
 
-    - name: Compilar Script con PyInstaller (Windows)
-      run: |
-        pyinstaller --noconfirm --onefile --noconsole --name "NexoSUGO" --collect-all playwright --collect-all customtkinter --hidden-import openpyxl main.py
+      - name: Compilar NexoSUGO.exe
+        shell: pwsh
+        run: |
+          python -m PyInstaller --noconfirm --clean --onefile --windowed `
+            --name NexoSUGO `
+            --collect-all playwright `
+            --collect-all customtkinter `
+            --hidden-import openpyxl `
+            main.py
+          if (-not (Test-Path 'dist/NexoSUGO.exe')) {
+            throw 'No se genero dist/NexoSUGO.exe'
+          }
 
-    - name: Preparar carpeta de entrega para el usuario
-      shell: pwsh
-      run: |
-        New-Item -ItemType Directory -Force -Path entregable
-        Move-Item -Path dist\NexoSUGO.exe -Destination entregable\
-        # En PowerShell Core (pwsh), utf8NoBOM evita errores en json.load() de Python
-        $datos = @{ user = ""; password = "" } | ConvertTo-Json
-        [System.IO.File]::WriteAllLines("$PWD\entregable\usuario_sugo.json", $datos)
+      - name: Preparar entregable de Windows
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path entregable | Out-Null
+          Copy-Item -Path 'dist/NexoSUGO.exe' -Destination 'entregable/NexoSUGO.exe'
+          $json = '{"user": "", "password": ""}'
+          $destino = Join-Path (Get-Location).Path 'entregable/usuario_sugo.json'
+          [System.IO.File]::WriteAllText($destino, $json, [System.Text.UTF8Encoding]::new($false))
 
-    - name: Guardar el entregable como Artefacto (Windows)
-      uses: actions/upload-artifact@v4
-      with:
-        name: bot-registro-nexo-windows
-        path: entregable/
+      - name: Publicar entregable Windows
+        uses: actions/upload-artifact@v4
+        with:
+          name: NexoSUGO-Windows-x64
+          path: entregable/
+          if-no-files-found: error
 
-  # ==========================================
-  # JOB 2: COMPILACIÓN PARA MAC (.app)
-  # ==========================================
   build-macos:
-    runs-on: macos-latest
+    name: macOS (${{ matrix.arch }}) (.app)
+    runs-on: ${{ matrix.runner }}
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - arch: Apple-Silicon
+            runner: macos-15
+          - arch: Intel
+            runner: macos-15-intel
+
     steps:
-    - name: Descargar el código del repositorio
-      uses: actions/checkout@v4
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
 
-    - name: Configurar Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-        cache: 'pip'
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
 
-    - name: Instalar dependencias y PyInstaller
-      run: |
-        python -m pip install --upgrade pip
-        pip install pyinstaller
-        pip install -r requirements.txt
+      - name: Instalar dependencias
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m pip install pyinstaller
+          # No se ejecuta "playwright install": main.py usa channel="chrome".
 
-    - name: Compilar Script con PyInstaller (Mac)
-      run: |
-        pyinstaller --noconfirm --windowed --noconsole --name "NexoSUGO" --collect-all playwright --collect-all customtkinter --hidden-import openpyxl main.py
+      - name: Compilar NexoSUGO.app
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m PyInstaller --noconfirm --clean --onedir --windowed \
+            --name NexoSUGO \
+            --collect-all playwright \
+            --collect-all customtkinter \
+            --hidden-import openpyxl \
+            main.py
+          test -d dist/NexoSUGO.app
 
-    - name: Preparar carpeta de entrega para el usuario (Bash)
-      run: |
-        mkdir -p entregable
-        mv dist/NexoSUGO.app entregable/
-        echo '{"user": "", "password": ""}' > entregable/usuario_sugo.json
-        # Comprimir dentro de entregable para que Mac conserve los permisos de ejecución (chmod +x) del .app
-        cd entregable
-        zip -r -y NexoSUGO-Mac.zip NexoSUGO.app usuario_sugo.json
-        rm -rf NexoSUGO.app usuario_sugo.json
+      - name: Preparar ZIP para macOS
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p entregable paquete
+          cp -R dist/NexoSUGO.app paquete/
+          printf '%s\n' '{"user": "", "password": ""}' > paquete/usuario_sugo.json
+          # ditto conserva mejor la estructura y los metadatos de un .app en macOS.
+          ditto -c -k --sequesterRsrc --keepParent paquete "entregable/NexoSUGO-Mac-${{ matrix.arch }}.zip"
+          test -s "entregable/NexoSUGO-Mac-${{ matrix.arch }}.zip"
 
-    - name: Guardar el entregable como Artefacto (Mac)
-      uses: actions/upload-artifact@v4
-      with:
-        name: bot-registro-nexo-mac
-        path: entregable/NexoSUGO-Mac.zip
+      - name: Publicar entregable macOS
+        uses: actions/upload-artifact@v4
+        with:
+          name: NexoSUGO-Mac-${{ matrix.arch }}
+          path: entregable/NexoSUGO-Mac-${{ matrix.arch }}.zip
+          if-no-files-found: error
