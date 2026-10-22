@@ -99,7 +99,6 @@ PROGRESS_KEY_COLUMNS = [PROGRESS_ID_COLUMN]
 
 _LOG_INDENT = contextvars.ContextVar("log_indent", default=0)
 
-
 def normalizar_texto(texto: str) -> str:
     """Elimina tildes y convierte a minúsculas."""
     texto_nfkd = unicodedata.normalize("NFKD", str(texto))
