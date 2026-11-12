@@ -30,8 +30,8 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
-          python -m pip install pyinstaller
-          # No se ejecuta "playwright install": main.py usa channel="chrome".
+          python -m pip install pyinstaller plyer
+          # No se ejecuta "playwright install": el bot usa channel="chrome".
 
       - name: Compilar NexoSUGO.exe
         shell: pwsh
@@ -40,7 +40,10 @@ jobs:
             --name NexoSUGO `
             --collect-all playwright `
             --collect-all customtkinter `
+            --collect-all plyer `
+            --hidden-import pandas `
             --hidden-import openpyxl `
+            --hidden-import plyer.platforms.win.notification `
             main.py
           if (-not (Test-Path 'dist/NexoSUGO.exe')) {
             throw 'No se genero dist/NexoSUGO.exe'
@@ -91,8 +94,8 @@ jobs:
           set -euo pipefail
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
-          python -m pip install pyinstaller
-          # No se ejecuta "playwright install": main.py usa channel="chrome".
+          python -m pip install pyinstaller plyer
+          # No se ejecuta "playwright install": el bot usa channel="chrome".
 
       - name: Compilar NexoSUGO.app
         shell: bash
@@ -100,9 +103,13 @@ jobs:
           set -euo pipefail
           python -m PyInstaller --noconfirm --clean --onedir --windowed \
             --name NexoSUGO \
+            --osx-bundle-identifier "com.bbva.rpa.nexosugo" \
             --collect-all playwright \
             --collect-all customtkinter \
+            --collect-all plyer \
+            --hidden-import pandas \
             --hidden-import openpyxl \
+            --hidden-import plyer.platforms.macosx.notification \
             main.py
           test -d dist/NexoSUGO.app
 
@@ -113,7 +120,9 @@ jobs:
           mkdir -p entregable paquete
           cp -R dist/NexoSUGO.app paquete/
           printf '%s\n' '{"user": "", "password": ""}' > paquete/usuario_sugo.json
-          # ditto conserva mejor la estructura y los metadatos de un .app en macOS.
+          # Firma ad-hoc para evitar bloqueo de Gatekeeper en macOS Apple Silicon
+          codesign --force --deep --sign - paquete/NexoSUGO.app
+          # ditto conserva la estructura y los metadatos de un .app en macOS.
           ditto -c -k --sequesterRsrc --keepParent paquete "entregable/NexoSUGO-Mac-${{ matrix.arch }}.zip"
           test -s "entregable/NexoSUGO-Mac-${{ matrix.arch }}.zip"
 

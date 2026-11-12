@@ -3,15 +3,16 @@ playwright>=1.48.0
 pandas>=2.2.0
 openpyxl>=3.1.5
 
-# --- Interfaz Gráfica (GUI) ---
+# --- Interfaz Gráfica (GUI) y Notificaciones ---
 customtkinter>=5.2.2
 packaging>=24.1
 pillow>=10.4.0
+plyer>=2.1.0
 
-# --- Variables de Entorno y Credenciales ---
+# --- Variables de Entorno y Empaquetado ---
 python-dotenv>=1.0.1
 
-# --- Dependencias específicas de Sistema Operativo para Notificaciones/Compilación ---
+# --- Dependencias específicas de Sistema Operativo ---
 pywin32>=306; sys_platform == "win32"
 winotify>=1.1.0; sys_platform == "win32"
 pyobjc-core>=10.3; sys_platform == "darwin"
