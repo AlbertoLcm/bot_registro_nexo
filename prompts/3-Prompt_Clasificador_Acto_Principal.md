@@ -1,4 +1,4 @@
-# Prompt - Clasificador de Acto Principal de oficios BBVA (v1.2)
+# Prompt - Clasificador de Acto Principal de oficios BBVA (v1.3)
 
 > Compatible con el extractor v6.2: `acciones_solicitadas` es un arreglo de textos. La evidencia proviene únicamente del JSON de entrada, sin exigir transcripciones del PDF, objetos de acción, referencias de página ni campos de fuente.
 
@@ -29,7 +29,7 @@ El Acto Principal es independiente de `tipo_operacion`, del Tipo de Oficio y de 
 
 ## 2. Catálogo cerrado de reglas y valores permitidos
 
-Usa exclusivamente los valores exactos siguientes para `acto_principal` (incluidas mayúsculas, acentos, paréntesis y espacios). Los supuestos se transcriben del anexo de reglas obligatorias.
+Usa exclusivamente los valores exactos siguientes para `acto_principal` (incluidas mayúsculas, acentos, paréntesis y espacios). Los supuestos siguientes integran el catálogo operativo vigente de este prompt.
 
 - **ACT-001** => `Bloqueo total`. **Supuesto:** La autoridad ordena bloqueo, embargo, retención o inmovilización por la totalidad de los fondos o recursos.
 - **ACT-002** => `Bloqueo total (Diligencia de Embargo)`. **Supuesto:** La autoridad ordena embargo sobre la totalidad de los fondos y, dentro de la misma diligencia, dispone poner los recursos a disposición mediante título de crédito, transferencia u otro medio señalado.
@@ -42,7 +42,7 @@ Usa exclusivamente los valores exactos siguientes para `acto_principal` (incluid
 - **ACT-009** => `Informe justificado`. **Supuesto:** La autoridad ordena rendir informe en un Juicio de Amparo, Cuaderno Principal o equivalente.
 - **ACT-010** => `Informe`. **Supuesto:** La autoridad solicita informar estatus, saldos, movimientos, domicilios, pantallas u otra información mediante una respuesta narrativa.
 - **ACT-011** => `Informe Jurídico (Cancelación/devolución de cheques)`. **Supuesto:** La autoridad ordena cancelar, devolver, recibir o sustituir cheques físicos previamente emitidos.
-- **ACT-012** => `Informe jurídico (solo registro en SUGO)`. **Supuesto:** El oficio únicamente comunica o notifica un evento procesal sin requerimiento material de información, documentación o ejecución.
+- **ACT-012** => `Informe jurídico (solo registro en SUGO)`. **Supuesto:** El oficio (a) únicamente comunica o notifica un evento procesal sin requerimiento material de información, documentación o ejecución; o (b) solicita información de empleados; o (c) solicita videos, videograbaciones o audios; o (d) solicita análisis u opinión jurídica.
 - **ACT-013** => `Insumos`. **Supuesto:** La autoridad solicita entregar documentación, archivos, constancias, copias, estados de cuenta, contratos u otros insumos.
 - **ACT-014** => `Cambio de bloqueo parcial por retención`. **Supuesto:** La autoridad modifica expresamente una medida previamente ordenada para convertir un bloqueo parcial o equivalente en retención.
 - **ACT-015** => `Embargo (criterios SSJJ)`. **Supuesto:** La autoridad ordena un embargo identificado expresamente bajo los criterios excepcionales definidos para este supuesto.
@@ -83,18 +83,23 @@ Aplica internamente esta secuencia:
 - `ACT-008` requiere una orden de rendir informe **en incidente de suspension, cuaderno incidental o equivalente en materia de amparo**.
 - `ACT-009` requiere una orden de rendir informe **en juicio de amparo, cuaderno principal o equivalente**.
 - No asignes ambos por la sola palabra "amparo". Si la pieza procesal relevante no esta precisada, no decidas entre ambos sin evidencia.
-- `ACT-010` describe una **respuesta narrativa** para informar estatus, saldos, movimientos, domicilios, pantallas u otra información.
-- `ACT-013` describe la **entrega material de documentos o insumos**: archivos, constancias, copias, estados de cuenta, contratos y otros. Distingue solicitar datos mediante respuesta de exigir documentos o archivos; si hay ambas peticiones independientes, conserva ambas etiquetas.
+- `ACT-010` describe una **respuesta narrativa** para informar estatus, saldos, movimientos, domicilios, pantallas u otra información, **salvo** los requerimientos específicos comprendidos en `ACT-012` (información de empleados, videos/videograbaciones/audios o análisis/opinión jurídica).
+- `ACT-013` describe la **entrega material de documentos o insumos**: archivos, constancias, copias, estados de cuenta, contratos y otros, **salvo** los requerimientos específicos comprendidos en `ACT-012` (información de empleados, videos/videograbaciones/audios o análisis/opinión jurídica). Distingue solicitar datos mediante respuesta de exigir documentos o archivos; si hay ambas peticiones independientes, conserva ambas etiquetas.
 - No asignes `ACT-010` adicionalmente solo porque un informe previo o justificado de amparo también se denomine "informe".
 
 ### 4.4. Supuestos especiales
 
 - `ACT-011` solo aplica a **cancelar, devolver, recibir o sustituir un cheque físico previamente emitido**. Una orden de expedir un cheque para entregar dinero a un tercero es evaluable bajo `ACT-007` y no basta para ACT-011.
-- `ACT-012` solo aplica cuando el JSON confirma expresamente que el oficio **únicamente comunica o notifica un evento procesal**, sin pedir ejecución, documentos ni información material. Una notificación que además ordena actuar no satisface la condición de exclusividad. **No deduzcas ACT-012 solo porque `acciones_solicitadas` esté vacío.**
+- `ACT-012` aplica en **cualquiera** de estos cuatro supuestos independientes, siempre que la información se encuentre expresamente en el JSON:
+  1. **Notificación procesal sin requerimiento material:** el oficio únicamente comunica o notifica un evento procesal, sin pedir ejecución, documentación ni información material. La condición de exclusividad aplica **solo a este supuesto de notificación**. No deduzcas `ACT-012` solo porque `acciones_solicitadas` esté vacío.
+  2. **Requerimientos de información de empleados:** se solicita información relativa a empleados.
+  3. **Requerimientos de videos, videograbaciones o audios:** se solicita proporcionar o entregar este tipo de material.
+  4. **Análisis y opinión jurídica:** se solicita realizar, emitir o proporcionar un análisis o una opinión de carácter jurídico.
+- Los supuestos 2, 3 y 4 **no requieren** que el oficio sea una mera notificación ni que carezca de requerimientos materiales. Si una misma solicitud encaja en `ACT-012` y, por su formato narrativo o documental, también en `ACT-010` o `ACT-013`, **asigna únicamente `ACT-012` para esa solicitud**. Conserva `ACT-010`, `ACT-013` u otras etiquetas cuando existan **requerimientos independientes** que las justifiquen. No basta con menciones de empleados, grabaciones o cuestiones jurídicas en antecedentes: debe existir una petición vigente y expresa.
 - `ACT-014` exige la **modificación expresa de un bloqueo parcial o equivalente previamente ordenado para convertirlo en retención**. No aplica a cualquier bloqueo o retención inicial.
 - `ACT-015` exige que el embargo se identifique **expresamente** bajo los criterios excepcionales aplicables a este supuesto. No presumas esos criterios por provenir de un tribunal o porque figure SSJJ en otro campo.
 - `ACT-016` exige un **juicio sucesorio con envío, entrega, transferencia o aseguramiento de recursos**, u otra transferencia sujeta **expresamente** a los criterios específicos. El carácter sucesorio y la acción correspondiente deben estar documentados en el JSON. Mencionar un juicio sucesorio sin esa acción no basta.
-- Cuando un supuesto especial (`ACT-011`, `ACT-014`, `ACT-015` o `ACT-016`) describa por completo una sola instrucción, no agregues la etiqueta genérica de esa misma instrucción. Agrega otras etiquetas solo para requerimientos realmente independientes.
+- Cuando un supuesto especial (`ACT-011`, `ACT-012`, `ACT-014`, `ACT-015` o `ACT-016`) describa por completo una sola instrucción, no agregues la etiqueta genérica de esa misma instrucción. Agrega otras etiquetas solo para requerimientos realmente independientes.
 
 ### 4.5. Prórroga solicitada por BBVA: ACT-017
 
@@ -205,7 +210,7 @@ Comprueba antes de emitir la respuesta:
 2. Que cada etiqueta y código corresponden exactamente al catálogo y a sus condiciones.
 3. Que no duplicaste una diligencia integrada al aplicar reglas generales y especiales.
 4. Que no confundiste entrega al titular con transferencia a un tercero, ni información narrativa con archivos/documentos.
-5. Que aplicaste correctamente los criterios especiales de amparo, juicio sucesorio, cheques, retención, SSJJ y prórroga BBVA.
+5. Que aplicaste correctamente los criterios especiales de amparo, juicio sucesorio, cheques, retención, SSJJ y prórroga BBVA, así como los cuatro supuestos de `ACT-012` y su prioridad frente a `ACT-010` y `ACT-013`.
 6. Que las etiquetas múltiples están en una sola cadena, separadas por `, `, y su trazabilidad corresponde a cada etiqueta.
 7. Que el estado HITL y, en su caso, HITL J corresponden a una incertidumbre documentada.
 8. Que toda `evidencia_textual` coincide exactamente con un texto del JSON de entrada y no se presenta como transcripción del PDF.

@@ -25,7 +25,7 @@ async def registro_alta_oficio(
     plazo_dias: int,
     abogado_solicitante: str,
     empresa: str,
-    file_name: Path
+    file_name: Path,  # OJO: Actualmente no se usa en la función
 ):
     try:
         _subsection("Alta de oficio", oficio_autoridad)
@@ -37,30 +37,27 @@ async def registro_alta_oficio(
             with _log_indent():
                 await select_best_option(
                     page=page,
-                    selector="select#listOF", 
-                    value_to_match=origen_folio, 
-                    navigation_expected=True
+                    selector="select#listOF",
+                    value_to_match=origen_folio,
+                    navigation_expected=True,
                 )
-
                 await select_best_option(
                     page=page,
-                    selector="select#listRegion", 
-                    value_to_match=region, 
-                    navigation_expected=True
+                    selector="select#listRegion",
+                    value_to_match=region,
+                    navigation_expected=True,
                 )
-
                 await select_best_option(
                     page=page,
-                    selector="select#listPlaza", 
-                    value_to_match=plaza, 
-                    navigation_expected=True
+                    selector="select#listPlaza",
+                    value_to_match=plaza,
+                    navigation_expected=True,
                 )
-
                 await select_best_option(
                     page=page,
-                    selector="#listOficio", 
-                    value_to_match=tipo_oficio, 
-                    navigation_expected=False
+                    selector="#listOficio",
+                    value_to_match=tipo_oficio,
+                    navigation_expected=False,
                 )
 
             if autoridad_especifica:
@@ -100,37 +97,40 @@ async def registro_alta_oficio(
                         _warn(f"'{autoridad_especifica}' no existe en Autoridad Específica.")
                         await page_select_autoridad.close()
 
-            _info("Seleccionando autoridad, abogado y empresa.")
+            _info("Seleccionando autoridad.")
             with _log_indent():
                 await select_best_option(
                     page=page,
-                    selector="select#listAutoridad", 
-                    value_to_match=autoridad
+                    selector="select#listAutoridad",
+                    value_to_match=autoridad,
                 )
 
             _info("Capturando datos del oficio.")
             with _log_indent():
-                await page.fill("#ofiCNBV", oficio_autoridad)
-                await page.fill("#expediente", expediente_autoridad)
-                await page.fill("#subAutoridad", subautoridad)
-                await page.fill("#ofiSUB", oficio_subautoridad)
-                await page.fill("#expedienteSub", expediente_subautoridad)
-                await page.evaluate(
-                    f"document.getElementById('fechaFin').value = '{fecha_recepcion}'"
+                await page.fill("#ofiCNBV", oficio_autoridad or "")
+                await page.fill("#expediente", expediente_autoridad or "")
+                await page.fill("#subAutoridad", subautoridad or "")
+                await page.fill("#ofiSUB", oficio_subautoridad or "")
+                await page.fill("#expedienteSub", expediente_subautoridad or "")
+
+                # Asignación segura sin riesgo de inyección ni errores por caracteres especiales
+                await page.locator("#fechaFin").evaluate(
+                    "(el, val) => { el.value = val; el.dispatchEvent(new Event('change', { bubbles: true })); }",
+                    fecha_recepcion,
                 )
                 await page.fill("#plazo", str(plazo_dias))
 
-                if origen_folio != "VENTANILLA":
+                if origen_folio.strip().upper() != "VENTANILLA":
                     await select_best_option(
                         page=page,
-                        selector="select#cbAbogado", 
-                        value_to_match=abogado_solicitante
+                        selector="select#cbAbogado",
+                        value_to_match=abogado_solicitante,
                     )
 
                 await select_best_option(
                     page=page,
-                    selector="select#cbEmpresa", 
-                    value_to_match=empresa
+                    selector="select#cbEmpresa",
+                    value_to_match=empresa,
                 )
 
             loop = asyncio.get_running_loop()
@@ -142,11 +142,12 @@ async def registro_alta_oficio(
                 if not resultado_alerta.done():
                     resultado_alerta.set_result(mensaje)
 
-            page.once("dialog", aceptar_alerta)
-            _info("Guardando alta de oficio.")
-            await page.evaluate("guardar()")
-
+            page.on("dialog", aceptar_alerta)
             try:
+                _info("Guardando alta de oficio.")
+                # setTimeout evita que page.evaluate se bloquee mientras el alert() está en pantalla
+                await page.evaluate("setTimeout(() => guardar(), 0)")
+
                 mensaje_alerta = await asyncio.wait_for(
                     resultado_alerta,
                     timeout=10,
@@ -158,6 +159,9 @@ async def registro_alta_oficio(
                     "message": "No apareció la alerta después de guardar",
                     "folio_sugo": "",
                 }
+            finally:
+                # Limpiamos siempre el listener para no afectar pasos posteriores
+                page.remove_listener("dialog", aceptar_alerta)
 
             if "OFICIO REGISTRADO" not in mensaje_alerta.upper():
                 _error(f"SUGO respondió al guardar oficio: {mensaje_alerta}")
@@ -171,25 +175,23 @@ async def registro_alta_oficio(
             await elemento_folio.wait_for(state="visible", timeout=15000)
 
             await page.wait_for_function(
-                "() => document.getElementById('folioSolicitud').value.trim() !== ''",
+                "() => { const el = document.getElementById('folioSolicitud'); return el && el.value.trim() !== ''; }",
                 timeout=15000,
             )
 
-            folio_sugo = await elemento_folio.input_value()
-            folio_sugo = str(folio_sugo).strip()
-
+            folio_sugo = (await elemento_folio.input_value()).strip()
             _ok(f"Oficio registrado en SUGO con folio {folio_sugo}.")
 
         return {
             "status": "ok",
             "message": "Alta de oficio realizado correctamente",
-            "folio_sugo": folio_sugo
+            "folio_sugo": folio_sugo,
         }
 
     except Exception as e:
         _error(f"Alta de oficio falló: {e}")
         return {
             "status": "error",
-            "message": f"Ocurrio un error inesperado: {e}",
-            "folio_sugo": ""
+            "message": f"Ocurrió un error inesperado: {e}",
+            "folio_sugo": "",
         }
